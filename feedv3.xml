@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Iterative Thinking</title><link>https://iterativethinking.substack.com</link><description>Design, AI, and systems thinking by Ulises Arvizu</description><language>en</language><lastBuildDate>Mon, 13 Apr 2026 23:05:40 +0000</lastBuildDate><atom:link href="https://ulisesarvizu.github.io/iterativo-en-xml/feed.xml" rel="self" type="application/rss+xml" /><item><title>The problem isn't AI, it's how we simplify reality</title><link>https://iterativethinking.substack.com/p/the-problem-isn't-ai,-it's-how-we-simplify-reality</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/the-problem-isn't-ai,-it's-how-we-simplify-reality</guid><pubDate>Tue, 31 Mar 2026 13:04:08 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Design requires context and nuance</description><content:encoded>##### Ed. 76
+
+One of the things that worries me most about the current AI hype isn't the technology itself, but how we talk about it.
+
+I constantly see reflections, opinions, and experiences that are born in very specific contexts, but quickly become universal truths. As if what works in one team, one company, or one type of product automatically applies to everyone.
+
+And from there, we build conclusions.
+
+Conclusions about the future of design.
+
+About the tools.
+
+About whether they'll replace us or not.
+
+About how we should work.
+
+The problem isn't questioning. **The problem is generalizing.**
+
+---
+
+## When noise weighs more than context.
+
+Today, most of the conversation lives on social media, videos, and content designed to be consumed fast… and shared even faster.
+
+But virality doesn't reward precision.
+
+It rewards the controversial.
+
+And in that process, nuance gets lost.
+
+It becomes easy to say:
+
+*"The design process is dead."*
+
+*"AI will replace designers."*
+
+*"You don't need research anymore."*
+
+*"You just need to move fast."*
+
+These are phrases that sound definitive, but rarely come with context.
+
+**And without context, design stops being a discipline… and becomes an opinion.**
+
+---
+
+## The polarization trap.
+
+There's something else on top of this: the need to pick a side.
+
+We don't want to understand complexity.
+
+We want to take a position.
+
+So we defend opposing stances as if they were incompatible:
+
+*Process versus Intuition,*
+
+*Rigor versus Speed,*
+
+*Craft versus Automation.*
+
+**And in that polarization, each side takes the most convenient version of the opposing argument… to dismiss it.**
+
+But design has never worked that way.
+
+Design lives in the nuances.
+
+The process isn't dead, and intuition isn't enough.
+
+Saying the design process is broken is as simplistic as saying it must always be followed to the letter.
+
+The reality is more uncomfortable.
+
+Many processes have become checklists.
+
+Rituals we follow without questioning.
+
+Steps we execute more out of inertia than intention.
+
+But on the other side, there's also a romanticization of intuition: **moving fast, "solving," iterating without necessarily understanding the problem.** That only makes us move fast toward wrong solutions.
+
+And there design loses something essential: **its capacity to make informed decisions.**
+
+---
+
+## Automating isn't accelerating, it's changing where we invest our time.
+
+Here's something that is a fact: artificial intelligence is changing the way we work.
+
+It automates tasks.
+
+Reduces time.
+
+Eliminates friction in many parts of the process.
+
+But that shouldn't automatically lead us to one conclusion: that now we "must" deliver faster.
+
+Maybe the right question is different.
+
+What do we do with the time we're recovering?
+
+Because if time pressure stops being the main obstacle, then the value is no longer in speed.
+
+**It's in judgment.**
+
+---
+
+## What we really need: more judgment, not more speed.
+
+We don't need designers who produce more. We need designers who understand better.
+
+Judgment isn't knowing all the answers. It's knowing what questions to ask when no one else is asking them. It's the designer who, in the middle of a meeting where everyone's celebrating delivery speed, raises their hand and asks: but are we solving the right problem? No tool automates that. And in a context where everything moves faster, that pause is worth more than before.
+
+See you in the next edition.
+
+---
+
+##### Reading list
+
+[Ux fo AI](https://uxforai.com/c/book) I'm rereading this great book that aims to give us an idea of how to create products that integrate AI capabilities. If you can, take a look (you can download the digital excerpt). Greg Nudelman has been running several workshops by the same name and this book collects his framework with everything learned during that time.
+
+[Estrategas de la intención](https://www.amazon.com.mx/Estrategas-Intenci%C3%B3n-despertar-Inteligencia-Artificial-ebook/dp/B0GSCQBYCL) by [Adrian Solca](https://adriansolca.substack.com/) this ebook will require a post in Iterative Thinking, so it's a must.
+
+---
+
+##### To watch
+
+[![YouTube](https://img.youtube.com/vi/F0OU6T9kFWM/hqdefault.jpg)](https://www.youtube.com/watch?v=F0OU6T9kFWM)</content:encoded></item><item><title>Vibe Coding: How Building an App in a Weekend Taught Me Why AI Won't Replace Us</title><link>https://iterativethinking.substack.com/p/vibe-coding:-how-building-an-app-in-a-weekend-taught-me-why-ai-won't-replace-us</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/vibe-coding:-how-building-an-app-in-a-weekend-taught-me-why-ai-won't-replace-us</guid><pubDate>Wed, 12 Nov 2025 13:03:00 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Between maker enthusiasm and technical debt: why collaboration keeps winning.</description><content:encoded>###### To watch
+
+# The Elements of UX in the Age of AI by Jesse James Garret
+
+[![YouTube](https://img.youtube.com/vi/i2UXcycitK8/hqdefault.jpg)](https://www.youtube.com/watch?v=i2UXcycitK8)
+
+---
+
+###### To listen 🎧
+
+# Particles - Keinseier
+
+[![Particles - Keinseier](https://i.scdn.co/image/ab67616d0000b273e30781e0ac03e17a7d6866e5)](https://open.spotify.com/track/5gJBU33Wy3dRZLXGMqvJjI)</content:encoded></item><item><title>How to Make AI Elevate Your Value (Instead of Making You Replaceable)</title><link>https://iterativethinking.substack.com/p/how-to-make-ai-elevate-your-value-(instead-of-making-you-replaceable)</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/how-to-make-ai-elevate-your-value-(instead-of-making-you-replaceable)</guid><pubDate>Wed, 20 Aug 2025 13:03:23 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>The "Expertise" paper framework applied to experience design</description><content:encoded>##### To read
+
+# [Outcomes Over Output: Design Systems and AI](https://bencallahan.com/outcomes-over-output-design-systems-and-ai)
+
+[Ben Callahan](https://bencallahan.com) brings us this interesting article as part of his bimonthly research program, The Question, where he gathered a group of very thoughtful Design Systems professionals to talk about the role of AI.
+
+---
+
+##### To listen 📻
+
+## Enceladus- Sunny Lax
+
+[![Enceladus - Edit - Sunny Lax](https://i.scdn.co/image/ab67616d0000b27398c360f046b68ff0ac094343)](https://open.spotify.com/track/2LrJ6xyaL14odGCofvJjlI)</content:encoded></item><item><title>Expertise: How AI Reorganizes Which Types of Work Become Valuable</title><link>https://iterativethinking.substack.com/p/expertise:-how-ai-reorganizes-which-types-of-work-become-valuable</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/expertise:-how-ai-reorganizes-which-types-of-work-become-valuable</guid><pubDate>Wed, 13 Aug 2025 13:01:13 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Why automation doesn't just change what we do, but how valuable we become</description><content:encoded>##### Para ver 👀
+
+# [B2B-agents available on Github](https://github.com/alyssonfranklin/b2b-agents)
+
+**Alysson Franklyn** has an interesting project that he himself defines as "*A comprehensive list with 40+ agents (and growing) to scale your B2B startup or power enterprise teams*". Follow [Alysson on LinkedIn](https://www.linkedin.com/in/alyssonfranklin/) so you can stay up to date with each of his updates.
+
+---
+
+##### Para escuchar
+
+# Medasin - before ir begins
+
+[![before it begins - Øneheart, Medasin, leadwave, Dean Korso](https://i.scdn.co/image/ab67616d0000b273d7c6d70996b0c8bb1e1a3c8d)](https://open.spotify.com/track/2YM1ZUyIr1f9XQAS3theU8)</content:encoded></item><item><title>Delegating Tasks with AI in Experience Design</title><link>https://iterativethinking.substack.com/p/delegating-tasks-with-ai-in-experience-design</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/delegating-tasks-with-ai-in-experience-design</guid><pubDate>Thu, 07 Aug 2025 13:02:45 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>A framework proposal for understanding how and when to use AI</description><content:encoded>##### To read 🤓
+
+## [When Figma Starts Designing Us](https://designsystems.international/ideas/when-figma-starts-designing-us/)
+
+A reflection on how design tools shape us, indirectly conditioning how we think and build interfaces.
+
+##### To listen 🎧
+
+## Parallel - Hiroyuki Oda
+
+[![Parallel - Original Mix - Hiroyuki Oda](https://i.scdn.co/image/ab67616d0000b2736d533e99b73d1b753be3a2bf)](https://open.spotify.com/track/0jkIvptAloouldzTRazVLO)</content:encoded></item><item><title>Automating is not the same as understanding</title><link>https://iterativethinking.substack.com/p/automating-is-not-the-same-as-understanding</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/automating-is-not-the-same-as-understanding</guid><pubDate>Sat, 05 Jul 2025 13:02:19 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Toward a shared intelligence that strengthens human collaboration</description><content:encoded>## When AI knows more than us, or we use it for things we haven't mastered.
+
+More and more AI tools promise to help us with tasks we don't master: writing code, visual design, or proposing creative solutions. Everything seems possible… even when we have no idea where to start.
+
+But there's a risk hiding behind this delegation without criteria:
+
+> If you don't have the experience to judge a decision, you also don't have the experience to judge whether AI is making a good decision for you.
+
+**Would you let a doctor who has never operated in their life operate on you?** One who has only worked alongside colleagues who know how to do it and claims to have a general idea, but now trusts AI to guide them step by step.
+
+**AI can assist. It can amplify.** But it cannot replace judgment when there isn't even judgment to supervise.
+
+### Do we want efficiency by avoiding collaboration?
+
+When designers want to avoid developers, when devs dodge design, or when a PM wants to build a product without their complementary roles… there's something deeper than a preference for efficiency.
+
+What we're seeing is a disguised version of an old aspiration: **avoiding the friction of working with others,** the dream of absolute independence. But that vision starts from a flawed premise: **that collaboration is a burden.**
+
+> Collaboration, properly understood, is a multiplier of intelligence and perspective.
+
+Using AI to avoid that collaboration is like covering your ears and saying: *"I'll just do it myself with my magic tool."* But products aren't just functional deliverables. They're agreements. They're context. They're shared decisions that live in the seams between roles.
+
+### Human-centered AI: designing to amplify, not replace
+
+The *Human-Centered AI (HCAI)* approach starts from a truth as simple as it is powerful: **people don't want to be replaced by technology, they want to be empowered by it.**
+
+> "Humans have always been toolmakers and now they are super-toolmakers, whose inventions can improve our health, family life, education, business, environment, and much more."—Ben Shneiderman, Human Centered AI
+
+Shneiderman proposes that the true value of AI is not in its autonomy, but in its ability to become **supertools**: technologies that amplify our human capabilities—our creativity, judgment, social connection, and responsibility.
+
+The HCAI approach doesn't seek to substitute human thinking, but to expand it. To design systems that don't make the user invisible, but keep them informed, in control, and with a voice. The key is finding the right balance between **advanced automation and meaningful human control**.
+
+This means:
+
+- Using human-centered methods: observation, iteration, evaluation of human performance.
+- Designing understandable interfaces, with clear feedback, where the user can anticipate what the system will do.
+- Creating tools that don't impose themselves, but accompany human intention.
+
+The *Human-Centered AI* framework reminds us that behind every intelligent system there are people: designers, developers, leaders, and above all, users. And that all of them deserve to participate in design that:
+
+- Recognizes human complexity,
+- Makes space for diversity,
+- Maintains dignity as a design principle.
+
+> The goal is not to build machines that think like us, but tools that help us think better, decide better, create better.
+
+## Toward a shared intelligence
+
+The future is not about choosing between humans or machines. It's about **creating forms of shared intelligence** that help us move forward together.
+
+We don't want systems that act on their own, without giving us explanations. We want tools that help us collaborate better. That make the connection between people more fluid. We want AI that, instead of replacing collective work, **strengthens it**.
+
+Because automating is not the same as understanding. And building technology without understanding what makes us human… is not progress. It's omission.
+
+**Postscript for designers, leaders, and technologists:** *The real challenge isn't what AI can do. It's what we decide to do with it. And that, still, is a human decision.*
+
+See you in the next edition…
+
+---
+
+###### Para ver
+
+# Meet liquid Glass
+
+[![YouTube](https://img.youtube.com/vi/IrGYUq1mklk/hqdefault.jpg)](https://www.youtube.com/watch?v=IrGYUq1mklk)
+
+This video is very interesting—whether we like Apple's new idea to unify their operating systems and feel less distant from Apple Vision Pro is another discussion: **Liquid Glass**. I've noticed that all the visual contrast failures happening in OS 26 occur for one simple reason: **Apple isn't following their own Liquid Glass rules.**
+
+---
+
+###### Para escuchar 🎧
+
+# Lemongrass - Lofi Cafe
+
+[![Lemongrass - Lofi Cafe](https://i.scdn.co/image/ab67616d0000b273de19b9c4ffc38fb7647ce996)](https://open.spotify.com/track/7v9o2BXl7AxjGShsTqGq7q)</content:encoded></item><item><title>Vibe Designing: when we let AI decide for us.</title><link>https://iterativethinking.substack.com/p/vibe-designing:-when-we-let-ai-decide-for-us.</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/vibe-designing:-when-we-let-ai-decide-for-us.</guid><pubDate>Thu, 15 May 2025 16:41:56 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Designing isn't just about generating ideas—it's having the judgment to know which ones to discard.</description><content:encoded>##### To read 📖
+
+## Practicing CRAFT: Keeping Ahead of the Machine
+
+As designers face the uncertainty of AI-driven change, the question isn't whether machines will take over, but whether we'll remember what it means to be human. John Maeda brings us his definition of **CRAFT**: a set of principles that keep design anchored in human intelligence.
+
+---
+
+##### To listen 🎧
+
+## Twist - Underworld
+
+[![Twist - Underworld](https://i.scdn.co/image/ab67616d0000b2731197be5a8ec09edc3befbe71)](https://open.spotify.com/track/4pRvssjV9Whs149F9GAmHv)</content:encoded></item><item><title>Design is not what you see, it's how you get there</title><link>https://iterativethinking.substack.com/p/design-is-not-what-you-see,-it's-how-you-get-there</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/design-is-not-what-you-see,-it's-how-you-get-there</guid><pubDate>Tue, 22 Apr 2025 04:49:12 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>A reflection on what design implies beyond deliverables...</description><content:encoded>###### To read
+
+# [A system for Writing - Bob Doto](https://bobdoto.computer)
+
+[![](https://substackcdn.com/image/fetch/$s_!vbR0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b824521-3317-4d46-b57e-025441650ae3_550x830.png)](https://substackcdn.com/image/fetch/$s_!vbR0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b824521-3317-4d46-b57e-025441650ae3_550x830.png)
+
+I've been diving into this very interesting book about a writing process. I'm looking to approach essay writing, so I started reading and applying the **Zettelkasten** method to collect my ideas in a more structured way. [This book by Bob Doto](https://bobdoto.computer) rounds out many concepts and provides a very simple guide on how to take notes and turn them into broader artifacts like articles or essays.
+
+---
+
+###### To listen 🎧
+
+# Spun day (Jamie Stevens Y2K Remix) - Spencer Brown
+
+[![Spun Day - Jamie Stevens Y2K Remix - Spencer Brown, Mat Zo, Jamie Stevens](https://i.scdn.co/image/ab67616d0000b27363f984aabe55d719e92a8b40)](https://open.spotify.com/track/6xPVIvVZQI2hVWjMU2i2Nn)</content:encoded></item><item><title>When Design Gets Automated: What's Left for Designers?</title><link>https://iterativethinking.substack.com/p/when-design-gets-automated:-what's-left-for-designers?</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/when-design-gets-automated:-what's-left-for-designers?</guid><pubDate>Sun, 16 Feb 2025 12:02:44 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>A reflection on AI's impact, and the important questions we should be asking.</description><content:encoded>###### Para Ver 👀
+
+# [Do All AI Models Need To Be Assistants?](https://lukew.com/ff/entry.asp?2084%3Fref=sidebar&utm_source=pocket_shared)
+
+While most AI models default to a "helpful assistant" mode, different dialogue frameworks could enable new types of AI interactions or capabilities. An agent that challenges you, or pushes you to improve your arguments by debating with you?
+
+---
+
+##### Para escuchar 🎧
+
+# Where you are- Halal beats
+
+[![Where you are - Vocal and Drum - Halal Beats](https://i.scdn.co/image/ab67616d0000b27368163466ddd273aeba1446ad)](https://open.spotify.com/track/6tgqqxEZ8PC9VCrZwgO95Y)</content:encoded></item><item><title>Not Everything Fits in a Design System: Not Even If You Know How to Make It Fit, Trust Me!</title><link>https://iterativethinking.substack.com/p/not-everything-fits-in-a-design-system:-not-even-if-you-know-how-to-make-it-fit,-trust-me!</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/not-everything-fits-in-a-design-system:-not-even-if-you-know-how-to-make-it-fit,-trust-me!</guid><pubDate>Sat, 01 Feb 2025 14:03:16 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>The trap of wanting to over-systematize.</description><content:encoded>#### To read 📖
+
+## [Simplify your product design — borrow familiar patterns](https://amivora.substack.com/p/simplify-your-product-design-borrow?isFreemail=true&post_id=156053779&publication_id=684779&r=51zz&triedRedirect=true&utm_source=pocket_shared)
+
+**Ami Vora** explores how **simplicity** in product design is not only desirable but a competitive advantage. A product is considered "simple" when it's **familiar and intuitive**, allowing users to interact with it effortlessly.
+
+---
+
+#### To listen 📻
+
+## Tatooine - Jeremy Messersmith
+
+[![Tatooine - jeremy messersmith](https://i.scdn.co/image/ab67616d0000b2738647dd432a06e824c9dbebc9)](https://open.spotify.com/track/1GBhk2WFPaWEaUcNBvlYyD)</content:encoded></item><item><title>Reevaluating Success in the Social Media Era</title><link>https://iterativethinking.substack.com/p/reevaluating-success-in-the-social-media-era</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/reevaluating-success-in-the-social-media-era</guid><pubDate>Mon, 23 Dec 2024 05:20:28 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Or how to apply a design approach to get to the root cause of our dissatisfactions.</description><content:encoded>##### Announcements🎙️
+
+# [Third edition of my Design Systems course.](http://somosedison.com/sistemas-de-diseno?utm_source=mail&utm_campaign=lanzamiento&utm_content=instructor)
+
+[![](https://substackcdn.com/image/fetch/$s_!1AGw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b5223ae-7faf-4ed8-845e-e3c9f3d401eb_3555x2000.png)](https://substackcdn.com/image/fetch/$s_!1AGw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b5223ae-7faf-4ed8-845e-e3c9f3d401eb_3555x2000.png)
+
+The third edition of the **[Design Systems: Strategy and practical fundamentals](http://somosedison.com/sistemas-de-diseno?utm_source=mail&utm_campaign=lanzamiento&utm_content=instructor)** course is now open, so if you want to know about everything involved in convincing, starting and pushing this initiative, this is the course you need. We won't talk about Figma, but about what happens outside your component library.
+
+##### Any questions: contact me by replying to this email.
+
+---
+
+##### To read. 📚
+
+# [Obsidian Vs. Apple Notes: Which Note-Taking App Is Better?](https://mattgiaro.com/obsidian-vs-apple-notes/)
+
+Currently, I'm venturing, for the second time, into creating my second brain, or in other words, seeking to create a system and flow that allows me to better remember what I read and make connections between ideas. I've discussed the topic with my friend Benjamín García, who is enthusiastic about simply using [Apple Notes](https://support.apple.com/es-mx/guide/notes/apd441e46563/4.11/mac/15.0), and I, for my part, have ventured into using [Obsidian](https://obsidian.md/).
+
+If you want to get an idea of what Obsidian is, watch the following video
+
+[![YouTube](https://img.youtube.com/vi/AE9Nq8TApH4/hqdefault.jpg)](https://www.youtube.com/watch?v=AE9Nq8TApH4)</content:encoded></item><item><title>"Good Taste" in Design Doesn't Exist</title><link>https://iterativethinking.substack.com/p/"good-taste"-in-design-doesn't-exist</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/"good-taste"-in-design-doesn't-exist</guid><pubDate>Sun, 08 Dec 2024 21:33:02 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Not in any universal sense — context is always the key to evaluating design.</description><content:encoded>Clarification: I want to refer in a general way to message as **"information that is transmitted"** which in many cases will trigger behaviors, like using *the designed thing* or achieving something with *the designed thing*.
+
+---
+
+We can approach different types of contexts in each project we develop, since as designers, we're rarely the *audience/users* of what we design. Part of the problem to solve when designing is understanding if this context is foreign to us; so that, maintaining openness, we can begin the process of assimilating or learning the codes of that context, which will allow us to craft effective messages.
+
+So we have these two axes: one where our structure of thinking and analysis gets reinforced through the practice of design, and another where the projects we've worked on have led us to learn from very diverse contexts, and with that our experience in understanding differences and similarities also gets reinforced.
+
+We shouldn't confuse these two axes, since we can find designers who have done great work in the craft of design, but perhaps their experiences have been limited to certain types of products or specific audiences/users. This doesn't necessarily represent a disadvantage, since we're talking about profiles that can be *specialists* with deep knowledge in specific areas. Contrary to those who might be called *generalists*, who have had experiences in much more varied contexts, but where their depth doesn't reach the same levels.
+
+## The key of context in design
+
+Until a few months ago I had a very clear idea about design, at least in the UX space and with UI Roles: **designers should leave their personal tastes out, and focus on objectively understanding the codes to create efficient messages; it's not about the designer, but about *the designed thing*, my idea dictated**. The problem that my teacher (and friend) [Omar Mendoza](https://elomarmendoza.notion.site/Omar-Mendoza-9935158d8af648d491a2eb86e732706c) pointed out to me, is that *we cannot detach ourselves from the bias that our own context gives us*.
+
+Now I believe we cannot set aside our context and biases. Being aware of them is important so they don't influence us randomly; but avoiding them is only an aspiration, not a reality. **We cannot design and be outside the context because we are always immersed in it**.
+
+## "Good taste" as social consensus
+
+Under the premise that designers work by assimilating contexts, we must understand that these contexts are social consensuses, not universal ones. In many cases these realities will have values that oppose each other, where what is well-regarded in one won't be so in another.
+
+For the designer, looking at these differences will force them to understand [cultural relativism](https://es.wikipedia.org/wiki/Relativismo_cultural#:~:text=El%20relativismo%20cultural%20es%20una,marcada%20por%20la%20corriente%20Darwiniana.) and avoid [ethnocentrism](https://es.wikipedia.org/wiki/Etnocentrismo). This leads us to the conclusion stated earlier that **design must be evaluated in its context** and any absolutist exercise to evaluate it will be inefficient.
+
+## Conclusion
+
+So, is there "good taste" in design? The short answer is no. What there are are **consensuses that work only at a cultural level and never universally.** Even within the same social group that consensus might not be homogenized due to different factors, such as generational differences among its members.
+
+That's why it's important that when we're designing we question whether our experience has led us to fully understand the context we're designing for, and whether we're not simply replicating the codes of what constitutes good design in certain contexts, assuming these codes always work regardless of where we apply them.
+
+And, on the other hand, understand whether, [when we evaluate design](https://iterativethinking.substack.com/p/evaluando-el-diseno), we have sufficient tools to understand the context, its codes and values that allow us to understand the consensus under which the design is good or not.
+
+See you in the next edition.
+
+---
+
+##### Avisos🎙️
+
+# [Third edition of my Design Systems course.](http://somosedison.com/sistemas-de-diseno?utm_source=mail&utm_campaign=lanzamiento&utm_content=instructor)
+
+[![](https://substackcdn.com/image/fetch/$s_!1AGw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b5223ae-7faf-4ed8-845e-e3c9f3d401eb_3555x2000.png)](https://substackcdn.com/image/fetch/$s_!1AGw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b5223ae-7faf-4ed8-845e-e3c9f3d401eb_3555x2000.png)
+
+The third edition of the **[Design Systems: Strategy and practical fundamentals](http://somosedison.com/sistemas-de-diseno?utm_source=mail&utm_campaign=lanzamiento&utm_content=instructor)** course is now open, so if you want to know about everything involved in convincing, starting, and pushing this initiative, this is the course you need. We won't talk about Figma, but about what happens outside your component library.
+
+##### Any questions: contact me by replying to this email.
+
+---
+
+##### Para leer 📚
+
+# [The "Global Design System" is nothing but a pipe dream](https://medium.com/@H_Stahl/the-global-design-system-is-nothing-but-a-pipe-dream-5e26a984bf78)
+
+[Henrik Ståhl](https://medium.com/@H_Stahl) gives us a good explanation of why Brad Frost's idea of a Global Design System has many challenges to face.
+
+---
+
+##### Para escuchar
+
+# Aurea-Arkitekto
+
+[![Aurea - Remastered - Arkitekto](https://i.scdn.co/image/ab67616d0000b2732d93824e2e48f78cb847ffad)](https://open.spotify.com/track/4ee5zD30SDZu18VkG8CTVZ)</content:encoded></item><item><title>Figma with UI3, and designers showing their resistance to change</title><link>https://iterativethinking.substack.com/p/figma-with-ui3,-and-designers-showing-their-resistance-to-change</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/figma-with-ui3,-and-designers-showing-their-resistance-to-change</guid><pubDate>Sat, 28 Sep 2024 18:15:42 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Change is so present in design, and it should be in the tools we use.</description><content:encoded>###### To Watch 👀
+
+# The crisis in Design and UX: What does it mean to be a UXer in 2024?
+
+[![YouTube](https://img.youtube.com/vi/NRsS-VazGh0/hqdefault.jpg)](https://www.youtube.com/watch?v=NRsS-VazGh0)
+
+[Adrian Solca](https://adriansolca.com) is a design director and gives an interesting perspective on the crisis or not in UX design. As always, very much in his style, he gives us context on what has happened in recent years.
+
+---
+
+##### To Listen 🎧
+
+# Hier- Keinseier
+
+[![Hier - Keinseier](https://i.scdn.co/image/ab67616d0000b2735db83d3d260dcd476a23659a)](https://open.spotify.com/track/7aCLb2Fl5ozTZxghNfiPP3)</content:encoded></item><item><title>AI designer. The market's obsession with labels</title><link>https://iterativethinking.substack.com/p/ai-designer.-the-market's-obsession-with-labels</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/ai-designer.-the-market's-obsession-with-labels</guid><pubDate>Sat, 21 Sep 2024 13:01:50 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>First prompt designer, now AI designer.</description><content:encoded>###### Para Ver 👀
+
+# Sentient Design: AI and the next Chapter of UX
+
+Josh Clark is working on a book called **Sentient Design**, which will be published in 2025. [Here's an introduction about it.](https://bigmedium.com/speaking/sentient-design-josh-clark-talk.html)
+
+[![YouTube](https://img.youtube.com/vi/T6SjliHy3eM/hqdefault.jpg)](https://www.youtube.com/watch?v=T6SjliHy3eM)
+
+---
+
+##### Para escuchar 🎧
+
+# Perspective- Klsr
+
+[![Perspective - Klsr](https://i.scdn.co/image/ab67616d0000b273a9f5fdec18180838860df95a)](https://open.spotify.com/track/4wKe5ecGYBqAXS9RG2lrt6)</content:encoded></item><item><title>2024 Retrospective</title><link>https://iterativethinking.substack.com/p/2024-retrospective</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/2024-retrospective</guid><pubDate>Sat, 10 Aug 2024 13:00:41 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>This edition is to express what's happening to me on a personal level, and why perhaps I haven't been writing as much as I'd like.</description><content:encoded>##### To read 👀
+
+# [Shapeof .AI](https://www.shapeof.ai)
+
+Ximena Cuenca shared this great resource with me — a collection of UX patterns for products that implement artificial intelligence. Save this page in your bookmarks, because if you're on AI projects you'll use it as a reference.
+
+---
+
+##### To listen 🎧
+
+# Doubt - Keinseier
+
+I discovered Keinser on [Instagram](https://www.instagram.com/keinseier/) randomly while scrolling through the reels the social network recommends. The only thing I know is that he's a German musician with a [YouTube](https://www.youtube.com/@keinseier/videos) channel with interesting ambient sessions, and this track is on Spotify.
+
+[![Doubt - Keinseier](https://i.scdn.co/image/ab67616d0000b27372d1b58242f855b5ed579ddd)](https://open.spotify.com/track/0s6s0q5bRkIcsCM13C93XP)
+
+---
+
+##### Bonus 🎧
+
+# [Second edition of my Design Systems Course](https://somosedison.com/sistemas-de-diseno?utm_source=email&utm_medium=email&utm_campaign=lanzamiento_exleads&utm_content=instructor)
+
+[![](https://substackcdn.com/image/fetch/$s_!rzJG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc626fe75-de4f-4b5d-b6d2-779027d257d1_2222x838.heic)](https://substackcdn.com/image/fetch/$s_!rzJG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc626fe75-de4f-4b5d-b6d2-779027d257d1_2222x838.heic)
+
+The course has a **strategic focus 😎.** This will help you convince teams of stakeholders, POs/PMs, and developers to collaborate and achieve adoption of a Design System. **[Don't miss out, reserve your spot now](https://somosedison.com/sistemas-de-diseno?utm_source=email&utm_medium=email&utm_campaign=lanzamiento_exleads&utm_content=instructor)** and if you have any questions, don't hesitate to contact me to make sure you'll get value from the course.</content:encoded></item><item><title>Figma and AI: What Are We Really Looking For?</title><link>https://iterativethinking.substack.com/p/figma-and-ai:-what-are-we-really-looking-for?</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/figma-and-ai:-what-are-we-really-looking-for?</guid><pubDate>Sun, 07 Jul 2024 12:51:43 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Artificial Intelligence can catalyze the Design process, but it seems what we're looking for are "magic" solutions</description><content:encoded>##### Para ver pt. 1 👀
+
+# The Fascinating History of the AI Game of Thrones
+
+Gustavo Entrala narrates like no other how the battle to develop current AI models has unfolded. An unmissable video to understand the commercial context around this topic in the West
+
+[![YouTube](https://img.youtube.com/vi/dULMDS_VJE8/hqdefault.jpg)](https://www.youtube.com/watch?v=dULMDS_VJE8)
+
+---
+
+##### Para ver pt. 2 🎧
+
+# The broken promises of design system
+
+My friend [Jay Lopez](https://www.linkedin.com/in/hellmcnamara/) shared on LinkedIn this talk from **Config 2024** that left me with a great reflection on what speed, consistency, and quality in a design system implies. Sometimes we're not aware of the costs of taking this radically and without self-criticism.
+
+[![YouTube](https://img.youtube.com/vi/BQXTt-NZ2Bs/hqdefault.jpg)](https://www.youtube.com/watch?v=BQXTt-NZ2Bs)</content:encoded></item><item><title>Demystifying UX Industry Facts.</title><link>https://iterativethinking.substack.com/p/demystifying-ux-industry-facts.</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/demystifying-ux-industry-facts.</guid><pubDate>Sat, 18 May 2024 21:12:54 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Our discipline is constantly changing — our concept definitions should be too.</description><content:encoded>##### To read 👀
+
+# Defensible Visual Design
+
+An interesting list of points for defending our design. Understanding the contexts of places, we can use this to strategically defend our designs better.
+
+---
+
+##### To listen 🎧
+
+# Amuse - Notre Dame
+
+[![Amuse - Notre Dame](https://i.scdn.co/image/ab67616d0000b27348ea4664d4142867209202f8)](https://open.spotify.com/track/1qK9yeRfOQop2yj6wOqoLv)</content:encoded></item><item><title>Passion and a taste for UX.</title><link>https://iterativethinking.substack.com/p/passion-and-a-taste-for-ux.</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/passion-and-a-taste-for-ux.</guid><pubDate>Sat, 30 Mar 2024 13:01:58 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>If you're only here because you bought into the story that it pays well, you can turn back — it takes more than just a bootcamp to build a career</description><content:encoded>##### To read 👀
+
+# [What is a Product?](https://www.solmesz.com/es/articulos/que-es-un-producto)
+
+Sol Mesz brings us this interesting article that attempts to define what a product is: "Ultimately, the point of this strategic definition of product is that **we can't think about product without thinking about the business, in the same way we can't think about the business without thinking about users."**
+
+---
+
+##### To listen 🎧
+
+# Icarus - Tony Ann
+
+[![ICARUS - Tony Ann](https://i.scdn.co/image/ab67616d0000b273d707f16c952ad13fb52e2347)](https://open.spotify.com/track/7aTuZWl7qYNYBAHDOurXOx)</content:encoded></item><item><title>Design needs a premise</title><link>https://iterativethinking.substack.com/p/design-needs-a-premise</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/design-needs-a-premise</guid><pubDate>Sat, 09 Mar 2024 15:02:10 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Design execution is never spontaneous or arbitrary.</description><content:encoded>##### Para escuchar 🎧
+
+# Cardano Circles - Max Cooper
+
+[![Cardano Circles - Max Cooper](https://i.scdn.co/image/ab67616d0000b273fabb5fdbc2eed41abe2fba0b)](https://open.spotify.com/track/4wdNS3iDj1FwfBbvvGql5d)</content:encoded></item><item><title>Sharing what you know makes you a better designer</title><link>https://iterativethinking.substack.com/p/sharing-what-you-know-makes-you-a-better-designer</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/sharing-what-you-know-makes-you-a-better-designer</guid><pubDate>Wed, 06 Mar 2024 13:00:19 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Because when one teaches, two learn.</description><content:encoded>##### To watch 👀
+
+# How to start a personal journal?
+
+Speaking of sharing, my great friend **Benjamín García** just opened a YouTube channel called [Vista360](https://www.youtube.com/watch?v=3eI-W1WFjCY&t=545s), where he wants to talk about things he likes—because there are many—that don't make as much sense in **The UX Rebels**.
+
+In this video he talks about his experience keeping a journal, and I'm a faithful witness that he's deep into this topic and quite advanced. I learned a lot from the video.
+
+Without a doubt, this level of production raises the bar for what we want to do for the podcast in season 5.
+
+[![YouTube](https://img.youtube.com/vi/3eI-W1WFjCY/hqdefault.jpg)](https://www.youtube.com/watch?v=3eI-W1WFjCY)
+
+---
+
+##### To listen 🎧
+
+# Default by Keinseier
+
+[![Default - Keinseier](https://i.scdn.co/image/ab67616d0000b27331f23cdef2135e1fff374f75)](https://open.spotify.com/track/0cdfRYlayrHeZB8UT56Zqc)</content:encoded></item><item><title>Design Systems and the Challenges of Collaboration</title><link>https://iterativethinking.substack.com/p/design-systems-and-the-challenges-of-collaboration</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/design-systems-and-the-challenges-of-collaboration</guid><pubDate>Mon, 05 Feb 2024 14:02:28 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Building and maintaining a design system means knowing how to transfer its value to the organization, not just to designers.</description><content:encoded>##### To read 👀
+
+# [Design system myths](https://medium.com/@nathanacurtis/design-system-myths-b2f07ef844e0)
+
+##### by Nathan Curtis
+
+---
+
+##### To listen 🎧
+
+# Tiempo - Alba y Tiempo
+
+[![Tiempo - Alba y el Tiempo](https://i.scdn.co/image/ab67616d0000b273c881764bce4db668c291a67d)](https://open.spotify.com/track/1I38mifu2bfSM9bDpU8QBT)</content:encoded></item><item><title>InVision: The End of an Era of Design Audiovisual Content.</title><link>https://iterativethinking.substack.com/p/invision:-the-end-of-an-era-of-design-audiovisual-content.</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/invision:-the-end-of-an-era-of-design-audiovisual-content.</guid><pubDate>Mon, 08 Jan 2024 14:44:35 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Its closure brings nostalgia, not for the product, but for all the content that surrounded it.</description><content:encoded>##### To read 👀
+
+# The Creative Act: A Way Of Being.
+
+I haven't read many articles during the holidays. Actually I've tried to stay as disconnected as possible. I'd been wanting to read this book since it came out. The truth is they're short chapters where Rick Rubin reflects on creativity, in all its breadth. I recommend it.
+
+[![YouTube](https://img.youtube.com/vi/H9fEbQVjMU0/hqdefault.jpg)](https://www.youtube.com/watch?v=H9fEbQVjMU0)</content:encoded></item><item><title>For 2024</title><link>https://iterativethinking.substack.com/p/for-2024</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/for-2024</guid><pubDate>Sun, 31 Dec 2023 23:42:09 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>The questions I'm carrying with me to be resolved in the coming year.</description><content:encoded>##### To read 👀
+
+# [On Persuasion. Good design requires persuasion](https://www.chrbutler.com/2023-04-15?utm_source=pocket_saves)
+
+---
+
+##### To listen 🎧
+
+# The Resistance (The Creator)
+
+If you have Star Plus, watch this movie, really good.
+
+[![YouTube](https://img.youtube.com/vi/ex3C1-5Dhb8/hqdefault.jpg)](https://www.youtube.com/watch?v=ex3C1-5Dhb8)</content:encoded></item><item><title>On When Graphic Designers Hijacked the UX Industry</title><link>https://iterativethinking.substack.com/p/on-when-graphic-designers-hijacked-the-ux-industry</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/on-when-graphic-designers-hijacked-the-ux-industry</guid><pubDate>Sat, 21 Oct 2023 20:36:39 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>My explanation of why we as visual designers have a place in the UX industry and the challenges we must face.</description><content:encoded>##### To read 👀
+
+# [4 design principles I use every day to avoid bad UX and create products that work for everyone](https://adamsilver.io/blog/4-design-principles-i-use-every-day-to-avoid-bad-ux-and-create-products-that-work-for-everyone/?ref=heydesigner&utm_source=pocket_saves)
+
+---
+
+##### To listen 🎧
+
+# Sab Hop - Sabino
+
+For my purists….
+
+[![YouTube](https://img.youtube.com/vi/f_98tK5IsL8/hqdefault.jpg)](https://www.youtube.com/watch?v=f_98tK5IsL8)</content:encoded></item><item><title>Documentary: RIP! A Remix Manifesto</title><link>https://iterativethinking.substack.com/p/documentary:-rip!-a-remix-manifesto</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/documentary:-rip!-a-remix-manifesto</guid><pubDate>Sat, 07 Oct 2023 14:24:45 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Design has a functional purpose, and that helps us understand how it differs from other types of creative activities.</description><content:encoded>##### Para ver 👀
+
+# Documentary: RIP! A Remix Manifesto
+
+[![YouTube](https://img.youtube.com/vi/Q-I5m3Sl_Gk/hqdefault.jpg)](https://www.youtube.com/watch?v=Q-I5m3Sl_Gk)
+
+---
+
+##### Para escuchar 🎧
+
+# Complete- Xander and Søren Søstrom
+
+[![YouTube](https://img.youtube.com/vi/BrCAoQHtX2E/hqdefault.jpg)](https://www.youtube.com/watch?v=BrCAoQHtX2E)</content:encoded></item><item><title>4 Things Tony Fadell's Build Taught Me About Team Design</title><link>https://iterativethinking.substack.com/p/4-things-tony-fadell's-build-taught-me-about-team-design</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/4-things-tony-fadell's-build-taught-me-about-team-design</guid><pubDate>Sun, 17 Sep 2023 23:35:45 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>4 ideas I found brilliant when Fadell talks about team design and management in his book "Build."</description><content:encoded>##### To read👀
+
+# [Is the New Deal for business leading by design?](https://www.figma.com/blog/is-the-new-deal-for-business-leading-by-design/?ref=uxdesignweekly&utm_source=pocket_saves)
+
+This great article from **Shortcut By Figma** has 5 very interesting perspectives on when companies are "design-led." 5 opinions on the mindset design should have in organizations when they have a seat at the executive table.
+
+---
+
+##### To listen to… and watch 🎧
+
+[![YouTube](https://img.youtube.com/vi/T6XdJ6ZISws/hqdefault.jpg)](https://www.youtube.com/watch?v=T6XdJ6ZISws)
+
+---
+
+##### Special announcement. 💎💎💎
+
+At [The UX Rebels](https://biolinky.co/theuxrebels) we're going to give away tickets to the [DesignOps Latam](https://designopslatam.org/conferencia/?utm_source=social&utm_instagram&utm_campaign=RPro) event. If you have no idea what DesignOps is or you've heard of it but don't know how it works, here's the [episode we did on YouTube with Alexandra Mengoni](https://www.youtube.com/watch?v=DenLLJrSXNk&t=4559s) who literally gave us a masterclass on DesignOps.</content:encoded></item><item><title>The trap of "common sense" and "intuition" in design.</title><link>https://iterativethinking.substack.com/p/the-trap-of-"common-sense"-and-"intuition"-in-design.</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/the-trap-of-"common-sense"-and-"intuition"-in-design.</guid><pubDate>Sat, 19 Aug 2023 19:52:01 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Demystifying the design process as something magical, and something you're born with. We connect dots faster the more we practice and learn.</description><content:encoded>##### Para ver 👀
+
+# [Passion in UX with Lis Fernandez](https://www.youtube.com/@theuxrebels)
+
+[![YouTube](https://img.youtube.com/vi/YpsPHhVyLtU/hqdefault.jpg)](https://www.youtube.com/watch?v=YpsPHhVyLtU)
+
+In our most recent episode we talked with Lis Fernandez from [@todotieneux](https://www.instagram.com/todotieneux/) about passion and how UX isn't just about making money.
+
+---
+
+##### Para escuchar 🎧
+
+[![Complete - xander., Søren Søstrom](https://i.scdn.co/image/ab67616d0000b273bcf3e17a1f8f8fcf85b29964)](https://open.spotify.com/track/1iKafONIrGrPtZf5R4zXAh)</content:encoded></item><item><title>Design Automaton</title><link>https://iterativethinking.substack.com/p/design-automaton</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/design-automaton</guid><pubDate>Sat, 12 Aug 2023 14:51:36 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description># [Who has the credentials to deliver design feedback?](https://www.imkylelambert.com/articles/who-has-the-credentials-to-deliver-design-feedback?utm_...</description><content:encoded># [Who has the credentials to deliver design feedback?](https://www.imkylelambert.com/articles/who-has-the-credentials-to-deliver-design-feedback?utm_source=pocket_saves)
+
+Speaking of credentials and skepticism, this article discusses how giving feedback is not the same as executing Design — they're two skills that aren't necessarily linked.
+
+---
+
+###### To Listen… and a bit more 🎧
+
+[![The Many Colored Beast - Denizen](https://i.scdn.co/image/ab67616d0000b273abf69ab31e12e9f61c224951)](https://open.spotify.com/track/3JpmeOAlHsXxowtyv6RDil)</content:encoded></item><item><title>Tools: Biases and Enablers of Design</title><link>https://iterativethinking.substack.com/p/tools:-biases-and-enablers-of-design</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/tools:-biases-and-enablers-of-design</guid><pubDate>Wed, 02 Aug 2023 13:00:45 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Design goes beyond the tools we use.</description><content:encoded>###### To Read or Watch 👀
+
+# [UX Research books](https://www.linkedin.com/pulse/ux-research-books-victor-m-gonzalez-ph-d-/?utm_source=pocket_saves)
+
+[Victor González](https://www.linkedin.com/in/victor-m-gonzalez/) published this article on LinkedIn about his **top books for learning about UX Research**
+
+---
+
+###### To Listen… and a bit more 🎧
+
+# Starfall - Marc Hanania
+
+[![Starfall - Marc Hanania, Marc Paul Hanania](https://i.scdn.co/image/ab67616d0000b273ba17d7dd053844a4eb0fd389)](https://open.spotify.com/track/51RzW1OafbuZkJxFVHwpmH)</content:encoded></item><item><title>My Version of Desk Research for UI and Interaction Designers.</title><link>https://iterativethinking.substack.com/p/my-version-of-desk-research-for-ui-and-interaction-designers.</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/my-version-of-desk-research-for-ui-and-interaction-designers.</guid><pubDate>Sat, 08 Jul 2023 18:53:36 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>How to create an information repository to consult in the future.</description><content:encoded>##### To watch 👀
+
+# We Start Season 4 of The UX Rebels
+
+[![YouTube](https://img.youtube.com/vi/Y4AtOc88Rbs/hqdefault.jpg)](https://www.youtube.com/watch?v=Y4AtOc88Rbs)
+
+After taking several months without uploading videos and preparing the pre-production of the first episodes, we kick off the fourth season of The UX Rebels with an interview with **Adrián Kane** where we talk about his journey in UX and his experience as a bootcamp instructor.
+
+---
+
+##### To listen 🎧
+
+[![The Last Goodbye - ODESZA, Bettye LaVette](https://i.scdn.co/image/ab67616d0000b273f08e77f631dfa98ca0a0a5a2)](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC)</content:encoded></item><item><title>The best WWDC videos about interface design</title><link>https://iterativethinking.substack.com/p/the-best-wwdc-videos-about-interface-design</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/the-best-wwdc-videos-about-interface-design</guid><pubDate>Thu, 15 Jun 2023 06:19:22 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>##### Para Leer y ver 👀...</description><content:encoded>##### Para Leer y ver 👀
+
+# The best WWDC videos about interface design
+
+Anthony Hobday gives us this great list of videos—one of those links you should save.
+
+---
+
+##### Para escuchar 🎧
+
+[![Halo (feat. Helen Tess) - smle, Helen Tess](https://i.scdn.co/image/ab67616d0000b2735daa11c2390f31b7b00ee793)](https://open.spotify.com/track/1ACxHTxrvaDu1Sxu5V4ojZ)</content:encoded></item><item><title>From Metaverse to Spatial Computing</title><link>https://iterativethinking.substack.com/p/from-metaverse-to-spatial-computing</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/from-metaverse-to-spatial-computing</guid><pubDate>Sat, 10 Jun 2023 19:27:59 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Apple's new bet—Will it really change the industry?</description><content:encoded>##### To Read and Watch 👀
+
+# Principles of spatial design
+
+[![](https://substackcdn.com/image/fetch/$s_!JrkL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ffcfb17-09a1-4f71-82a8-245f93f1fedd_1624x912.png)](https://substackcdn.com/image/fetch/$s_!JrkL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ffcfb17-09a1-4f71-82a8-245f93f1fedd_1624x912.png)
+
+Discover the fundamentals of spatial design. Learn to design with depth, scale, windows, and immersion, and apply best practices to create comfortable, human-centered experiences that transform reality. Discover how you can use these spatial design principles to extend your existing application or bring a new idea to life.
+
+---
+
+##### To Listen 🎧
+
+# Sais - Floating Points
+
+[![Sais - Floating Points](https://i.scdn.co/image/ab67616d0000b27379b8d29aef430e2a00ce8b63)](https://open.spotify.com/track/65c7ctSEOiYbz61XtytvOV)</content:encoded></item><item><title>When Artificial Intelligence Catches Up to Us.</title><link>https://iterativethinking.substack.com/p/when-artificial-intelligence-catches-up-to-us.</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/when-artificial-intelligence-catches-up-to-us.</guid><pubDate>Fri, 02 Jun 2023 10:01:23 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Interface design will be automated; but that's not the real problem.</description><content:encoded>##### Para Ver 👀
+
+## Increasing your influence as a designer
+
+[![YouTube](https://img.youtube.com/vi/TUe46ZYLmPY/hqdefault.jpg)](https://www.youtube.com/watch?v=TUe46ZYLmPY)
+
+If you want to hear in a hard and pure way how designers should focus on creating impact, you should listen to this Deep Dives episode where they interview Mia Blume, design leader at Square and Pinterest.
+
+---
+
+##### Para escuchar 🎧
+
+# Another Girl - Jaques Greene
+
+[![Another Girl - Jacques Greene](https://i.scdn.co/image/ab67616d0000b27367f2ae5b909c25a94891d1a7)](https://open.spotify.com/track/1tsoKfM2I3a1VGpkjhzFTw)</content:encoded></item><item><title>Fidelity Levels in Design Artifacts</title><link>https://iterativethinking.substack.com/p/fidelity-levels-in-design-artifacts</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/fidelity-levels-in-design-artifacts</guid><pubDate>Wed, 10 May 2023 12:00:57 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Understanding the audience you communicate your design progress to for effective communication.</description><content:encoded>###### To Watch 👀
+
+[![YouTube](https://img.youtube.com/vi/cFdCzN7RYbw/hqdefault.jpg)](https://www.youtube.com/watch?v=cFdCzN7RYbw)
+
+I finished the Fundamentals of Behavior for User Experience (UX) Design and Evaluation course at [Sperentia Academy](https://www.sperientia.academy/)—beyond saying the course seemed very interesting to me and made me interested in what the different behavior models are about. This video gives us an idea of what's behind the science of persuasion. I identified with more than one shortcut.
+
+---
+
+###### To Listen 🎧
+
+# Unicornio - Ramón Amezcua (Dj Tlo remix)
+
+[![Unicornio (Dj Tlo Remix) - Ramon Amezcua](https://i.scdn.co/image/ab67616d0000b2733354b0e60947032dab814ae6)](https://open.spotify.com/track/39z8RVRkX20tBY8ZwpMx94)
+
+When the Nortec movement was just beginning, Dj Tlo made this remix of the Unicornio track, originally by Ramón Amezcua a.k.a. Bostich. A forceful 4x4 techno that blurs banda samples without losing the groove.</content:encoded></item><item><title>What Tony Fadell's book taught me about product design</title><link>https://iterativethinking.substack.com/p/what-tony-fadell's-book-taught-me-about-product-design</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/what-tony-fadell's-book-taught-me-about-product-design</guid><pubDate>Thu, 27 Apr 2023 18:22:11 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Clarity on what you want to solve, narrative, and care for the whole.</description><content:encoded>###### To Read 👀
+
+# [Why do they ignore my awesome design documentation?](https://medium.com/design-bridges/design-documentation-2-b03e270c2d5b)
+
+**Why doesn't anyone read our documentation?** For those who work on Design Systems and Handoff processes, this article is a great reference for best practices to keep your whole team involved and make effective documentation.
+
+---
+
+### To listen and watch 🎧
+
+[![YouTube](https://img.youtube.com/vi/Sn_FpWZz4hw/hqdefault.jpg)](https://www.youtube.com/watch?v=Sn_FpWZz4hw)</content:encoded></item><item><title>Design Education: Schools, Bootcamps, and Practice.</title><link>https://iterativethinking.substack.com/p/design-education:-schools,-bootcamps,-and-practice.</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/design-education:-schools,-bootcamps,-and-practice.</guid><pubDate>Sat, 15 Apr 2023 16:40:27 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>There's no defined formula for becoming a designer, but a curious and critical attitude is a present pattern.</description><content:encoded>###### To Read 👀
+
+# [A Short History of Artificial Intelligence](https://every.to/p/a-short-history-of-artificial-intelligence?ref=sidebar&utm_source=pocket_saves)
+
+"With recent advances in machine learning, we might be entering a period of technological progression more impactful than the Scientific Revolution and the Industrial Revolution combined."
+
+---
+
+### To Listen 🎧
+
+[![jazmin - Ruth de las Plantas, lightheart](https://i.scdn.co/image/ab67616d0000b273a95acb599a40757f7f86bef5)](https://open.spotify.com/track/3vLbYgfzxz2PewnOtVbayK)</content:encoded></item><item><title>Prompt Designer: Confusing a Possible Skill with a Nonexistent Role.</title><link>https://iterativethinking.substack.com/p/prompt-designer:-confusing-a-possible-skill-with-a-nonexistent-role.</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/prompt-designer:-confusing-a-possible-skill-with-a-nonexistent-role.</guid><pubDate>Thu, 30 Mar 2023 13:01:07 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>We're trying to make sense of a world that's changing faster than we'd like and faster than we understand.</description><content:encoded>###### To Read 👀
+
+# [Augmented Imagination](https://medium.com/@buckhouse/augmented-imagination-a3f4519f9784)
+
+"AI will not mean the death of artists, intellectuals, or anyone else. It will mean our rebirth […] Here's how: we must stop thinking of AI as artificial intelligence and instead think of it as augmented imagination."
+
+---
+
+## To Listen 🎧
+
+[![Forgive - Burial](https://i.scdn.co/image/ab67616d0000b273ee04527b57086bd3cb3387c8)](https://open.spotify.com/track/5z88Jo2GRks9N0I36AtnAh)</content:encoded></item><item><title>Asking for feedback in design</title><link>https://iterativethinking.substack.com/p/asking-for-feedback-in-design</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/asking-for-feedback-in-design</guid><pubDate>Wed, 15 Mar 2023 14:27:58 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Beyond just asking open-ended questions: Which option is better?</description><content:encoded>###### To Read 👀
+
+# [The Truth About Strategy](https://www.andybudd.com/archives/2023/01/the-truth-about-strategy)
+
+Most people enormously overcomplicate the concept of "strategy." As such, your strategy is what informs and connects what the company is trying to do and how it's trying to do it, with the people responsible for delivering it.
+
+---
+
+###### To Listen 🎧
+
+# Keep Going - Swørm
+
+[![Keep Going - Swørn](https://i.scdn.co/image/ab67616d0000b2739f0f86b54e7ca8870fac0ede)](https://open.spotify.com/track/3XVnsxFN64rtFHkKVnxBkm)</content:encoded></item><item><title>Faster Ideation Processes with AI</title><link>https://iterativethinking.substack.com/p/faster-ideation-processes-with-ai</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/faster-ideation-processes-with-ai</guid><pubDate>Sat, 18 Feb 2023 13:01:41 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Because ideation doesn't just happen in design, but in any field.</description><content:encoded>###### To Read 👀
+
+## [AI is a feature, not a product](https://tomcreighton.com/blog/ai-is-a-feature-not-a-product/)
+
+It's not that AI devours products by replacing them, but that AI will be a feature that makes more sense to add to certain established products, expanding their capabilities.
+
+---
+
+###### To Listen 🎧
+
+# Dreamscape - one heart
+
+[![Dreamscape - Øneheart](https://i.scdn.co/image/ab67616d0000b273b025a8cfac3ea2006b7d966f)](https://open.spotify.com/album/0nwryd9ULkm94Xdol4N86q)</content:encoded></item><item><title>Before 2023 Begins</title><link>https://iterativethinking.substack.com/p/before-2023-begins</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/before-2023-begins</guid><pubDate>Sat, 17 Dec 2022 05:35:58 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>The last edition of 2022</description><content:encoded /></item><item><title>Resilience — That's What Design Is About</title><link>https://iterativethinking.substack.com/p/resilience-—-that's-what-design-is-about</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/resilience-—-that's-what-design-is-about</guid><pubDate>Fri, 09 Dec 2022 05:26:23 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>The work stays the same, only the medium changes</description><content:encoded>##### Ed. 35
+
+2022 has brought us surprises. The year is ending very differently from how it started. Uncertainty has become part of the landscape.
+
+Reflection on the industry is inevitable. The end of the year naturally makes us think in retrospective. It's not easy to draw an optimistic and bright scenario. *The only certainty is that nothing is certain:* **but that's what Design has always been about.**
+
+## Mutation is a constant in Design.
+
+[Fabrixio Texeira](https://fabricio.work/), as every year, has published the [expected trends for 2023](https://trends.uxdesign.cc/), and was very accurate in reflecting on a situation happening globally. The economy is suffering a contraction, the tech industry is suffering cutbacks, and because of this, many design roles have been cut around the world.
+
+Our industry is a reflection of what's happening in the world, where not only designers have lost jobs, developers have too, but also people in sales, logistics, and many other areas. The cuts respond more to a general restructuring of the tech industry than to a Design crisis — though it does get worse, yes, because of thousands of people around the world who have been thrown into the UX industry with the promise of a better future, as the recipe for career success.
+
+Some might think that **the role of the designer** (in the full sense of the word) **is coming to an end**, when we see the proliferation of AI in multiple creative fields, when we can even make content iterations automatically with AI. Some point out that [the designer's job will be more of a curator than a creator.](https://www.artefactgroup.com/ideas/ai_design_2025/)
+
+Design has never been static, it has always mutated like society itself. We change formats, mediums, but that's only "the how." We've talked about this throughout the last year in this newsletter, about what [design would look like in 10 thousand years](https://ulisesarvizu.substack.com/p/disenando-10-mil-anos-en-el-futuro), and how there will always be problems to solve. Our activity will adapt according to the needs, but we will always keep solving problems.
+
+## Looking inward.
+
+**[Adrian Solca](https://adriansolca.com/)**, as always, has been forceful in his message; we need better professionals who positively impact organizations.
+
+**We need to understand that there are no specialists without a good generalist foundation.**
+
+This doesn't happen by magic…
+
+> "…there are no shortcuts to being an expert in a field. It requires hundreds of hours of practice, analysis, and reflection, but none of that can happen if we don't question what we know, what we do, and what we aspire to be." — The Collapse, by Adrian Solca
+
+If you're reading this and/or you're looking for your first opportunity, you're overwhelmed and don't know where to start, I can only tell you; **magic recipes don't exist**, they lied to you.
+
+The craft is forged with resilience and persistence and reflection. The coming months won't be prosperous so it's not going to get better.
+
+If even so, you're convinced that this is your thing and where you want to build a career, welcome, patience and critical thinking will be your allies, this is not a 100-meter sprint, **this is a marathon.**
+
+For those who've been at this for a while and at least know what it's about…
+
+I'm somewhat tired of the UX is not UI speeches, which [I've tried to describe why they don't do the industry any good](https://ulisesarvizu.substack.com/p/ui-no-es-ux), or arguing about What is really a Product Designer or a UX Designer? and Why doesn't the industry reach a consensus?
+
+The industry is not going to resolve these questions, it doesn't matter what title they give us, if with it we understand the value of what we do, and with it we impact organizations and consequently people's lives. The value of design is not in the title, but in its impact.
+
+We must reflect individually on the value of what we do, only by doing this will we understand where we can go and how we'll adapt to the challenges and paradigm shifts coming in the next years. And Design is not going to disappear, we just need to understand where it's moving to — the faster we can understand it, the easier it will be to adapt.
+
+We never stop learning and we'll never know everything, let's assume our reality as just a fraction of what we think it is. Review what pending subjects you have and work to strengthen them, don't wait for opportunities to push you to learn other things, on the contrary, your hunger for curiosity should push you to keep searching and that will inevitably lead you to better opportunities.
+
+**If you've been part of the cuts this 2022, I can only say I'm very sorry, I hope you can find work soon, if you think I can help you with something send me a message on LinkedIn and let's see what we can do.**
+
+See you in the next edition, before 2022 ends.
+
+---
+
+###### To Read 👀
+
+# [Design system canvas](https://designsystemcanvas.com/?utm_source=pocket_saves#learn)
+
+[![](https://substackcdn.com/image/fetch/$s_!AkTL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1b72324-010c-4859-9bf5-6755cf0ba03b_2116x1495.png)](https://substackcdn.com/image/fetch/$s_!AkTL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1b72324-010c-4859-9bf5-6755cf0ba03b_2116x1495.png)
+
+[Pavaan](https://paavandesign.com/) is a designer from London who adapted the [Lean Canvas](https://leanstack.com/lean-canvas) to Design Systems. Although the artifact is in testing phase, you can check it out and if applicable give him feedback on the use of the tool.
+
+---
+
+###### To Listen 👀
+
+# Underworld - Pearl's Girl
+
+[![Pearl's Girl - Remastered - Underworld](https://i.scdn.co/image/ab67616d0000b273ff49fccb4fb350efedbe6bf8)](https://open.spotify.com/track/6iisVF84yFUSmX0kXc9cYk)</content:encoded></item><item><title>The goal of UI is not to be pretty and pleasant</title><link>https://iterativethinking.substack.com/p/the-goal-of-ui-is-not-to-be-pretty-and-pleasant</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/the-goal-of-ui-is-not-to-be-pretty-and-pleasant</guid><pubDate>Sat, 26 Nov 2022 00:05:12 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>UI Design is much more than just "pimping out", dressing up, or adding color to screens.</description><content:encoded>###### To Read 👀
+
+# [Good Design](https://shud.in/posts/good-design)
+
+A small but concise reflection on how we chase trends instead of seeking timeless design.
+
+---
+
+# How To Build Expertise While Learning
+
+You can turn on subtitles in English or Spanish. How to become an expert while learning: by sharing what you know.
+
+[![YouTube](https://img.youtube.com/vi/Mj1PhPKkERY/hqdefault.jpg)](https://www.youtube.com/watch?v=Mj1PhPKkERY)</content:encoded></item><item><title>"Take Power and Give It to the People": Has the Promise of the Internet Been Fulfilled?</title><link>https://iterativethinking.substack.com/p/"take-power-and-give-it-to-the-people":-has-the-promise-of-the-internet-been-fulfilled?</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/"take-power-and-give-it-to-the-people":-has-the-promise-of-the-internet-been-fulfilled?</guid><pubDate>Fri, 11 Nov 2022 03:34:33 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>The Playlist: the Spotify story, advertising on Netflix, and Adam Mosseri and the creator economy.</description><content:encoded>###### To Read 👀
+
+# [The Complete Guide to Figma Branching](https://medium.com/@ben-maclaren/the-complete-guide-to-figma-branching-15bc369f9df6)
+
+Speaking more about design, this article is very complete if what you're looking for is to understand and apply branching to your Figma files.
+
+---
+
+###### To Listen 🎧
+
+# good kid, m.A.A.d city by Kendrick Lamar
+
+[![good kid, m.A.A.d city (Deluxe) - Kendrick Lamar](https://i.scdn.co/image/ab67616d0000b27378de8b28de36a74afc0348b5)](https://open.spotify.com/album/748dZDqSZy6aPXKcI9H80u)</content:encoded></item><item><title>Creating tomorrow by executing today</title><link>https://iterativethinking.substack.com/p/creating-tomorrow-by-executing-today</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/creating-tomorrow-by-executing-today</guid><pubDate>Thu, 03 Nov 2022 12:00:21 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>As designers, we must find the balance between mapping the future and delivering short-term value</description><content:encoded>###### To Read 2x1 👀
+
+# [Why Everything Looks the Same](https://medium.com/knowable/why-everything-looks-the-same-bad80133dd6e)
+
+A complete analysis of how economic globalization, generational transition and technology converge to flatten the consumer experience
+
+---
+
+## [Why Dall-E will not steal my job as an illustrator](https://medium.com/@emmanuel6/why-dall-e-will-not-steal-my-job-6a1e2943cb82)
+
+Emmanuel is a digital illustrator who describes the experience of trying the AI image creation service: Dall-E, an interesting and forceful statement about how we're still far from being replaced by robots.</content:encoded></item><item><title>Artificial Intelligence in the Creative Industries</title><link>https://iterativethinking.substack.com/p/artificial-intelligence-in-the-creative-industries</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/artificial-intelligence-in-the-creative-industries</guid><pubDate>Wed, 26 Oct 2022 16:48:07 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>We worry about losing our Status Quo as creators and creatives with Artificial Intelligence, but perhaps we should embrace change as a mindset and make that our Status Quo</description><content:encoded>###### To read 👀
+
+# [Blending Modes](https://typefully.com/DanHollick/blending-modes-KrBa0JP)
+
+How do layer styles work? For those who want more certainty when choosing between Multiply and Darken
+
+---
+
+###### To listen 🎧
+
+# [The History of Sound, on Convoy Networks](https://www.indierocks.mx/musica/noticias/convoy-network-ahora-esta-disponible-para-usuarios-de-sonos/)
+
+I've been getting a lot out of my **[Convoy Networks](https://convoynetwork.com/)** subscription. Their **History of Sound** series has a narrative that feels like it deserves a video with images on YouTube, or even on a streaming platform. If you can, try the service.</content:encoded></item><item><title>Why Adobe needs to “Figmatize” and not the other way around</title><link>https://iterativethinking.substack.com/p/why-adobe-needs-to-“figmatize”-and-not-the-other-way-around</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/why-adobe-needs-to-“figmatize”-and-not-the-other-way-around</guid><pubDate>Sat, 15 Oct 2022 10:00:57 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>## The evolution of user interface in digital editing tools.</description><content:encoded>###### Para leer 👀
+
+# [Rediscovering Apple's 1987 Identity Guidelines](https://www.arun.is/blog/apple-guidelines/)
+
+Una interesante revisión del la guía de diseño de marca de 1987.
+
+[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f3117460-ccf8-47c1-ae72-4c085a264d57_1440x960.webp)](https://www.arun.is/blog/apple-guidelines/)
+
+---
+
+###### Para escuchar y ver  🎧
+
+# Principal Designer o Design Lead
+
+**[José Arroyo](https://www.instagram.com/ux.josearroyo/?hl=es)**  de [EsteMancito.UX Podcast ](https://www.instagram.com/estemancito.ux/?hl=es)me invitó para hablar de mi experiencia como Principal Designer y contrastarlo con mi experiencia como UX Lead, Estreno su temporada en video conmigo, ¡Que honor!
+
+[![YouTube](https://img.youtube.com/vi/aoQhGsxV03Y/hqdefault.jpg)](https://www.youtube.com/watch?v=aoQhGsxV03Y)</content:encoded></item><item><title>The Tangible Nature of the Intangible</title><link>https://iterativethinking.substack.com/p/the-tangible-nature-of-the-intangible</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/the-tangible-nature-of-the-intangible</guid><pubDate>Fri, 07 Oct 2022 15:13:27 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>When our obsession with hoarding shifts from objects to services and bytes.</description><content:encoded>###### To check out 👀
+
+# [Cubic.art](https://www.cubic.art/)
+
+[![](https://substackcdn.com/image/fetch/$s_!tAo0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb766c94-43d9-4616-9471-61c98e6959eb_1080x1080.gif)](https://substackcdn.com/image/fetch/$s_!tAo0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb766c94-43d9-4616-9471-61c98e6959eb_1080x1080.gif)
+
+After the hype of [the supposed burning of a Frida Kahlo artwork](https://www.youtube.com/watch?v=b9ovijUcKHk) to *mint* NFTs that would only have a digital base, Daniel Gurrola shared the Cubic site with me, an interesting initiative where **basically you can buy a portion of an artwork through a grid of NFTs**. Imagine this for buying a portion of properties and receiving the respective proportion in money from the rent or sale of that place.
+
+---
+
+###### To listen to 🎧
+
+# Unspoken Words
+
+[![YouTube](https://img.youtube.com/vi/Sjn7KXKs4CM/hqdefault.jpg)](https://www.youtube.com/watch?v=Sjn7KXKs4CM)
+
+From Max Cooper, if you have Apple Music, listen to it with **Dolby Atmos**, here's the Spotify playlist, [here to buy the Blu-ray](https://maxcooper.bandcamp.com/merch/unspoken-words-dolby-atmos-blu-ray-cd)
+
+[![Unspoken Words - Max Cooper](https://i.scdn.co/image/ab67616d0000b273f371510a6eab72b1fd7033bf)](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk)</content:encoded></item><item><title>On Success and Innovation</title><link>https://iterativethinking.substack.com/p/on-success-and-innovation</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/on-success-and-innovation</guid><pubDate>Sat, 01 Oct 2022 04:43:43 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>We relate innovation to success, but they're distinct concepts that can even contradict each other</description><content:encoded>###### To Read 👀
+
+# [Not all design opinions are created equal](https://www.the-haystack.com/2021/03/25/not-all-design-opinions-are-created-equal/)
+
+When people with less experience come to you, your goal should be helping them understand better how and why they made those decisions, not how you would do it, based on your experience.
+
+---
+
+###### To Listen 🎧
+
+# Zofa - Nology
+
+[![Nology - Zofa](https://i.scdn.co/image/ab67616d0000b273a8f4de7b03333348dffd8c05)](https://open.spotify.com/track/4UGnXSeks3wTh3m85bB1F7)
+
+Technological nostalgia in Mexican minimal techno</content:encoded></item><item><title>Figma is Acquired by Adobe</title><link>https://iterativethinking.substack.com/p/figma-is-acquired-by-adobe</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/figma-is-acquired-by-adobe</guid><pubDate>Fri, 23 Sep 2022 16:47:26 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>The community shows its anger — Are tools a way of defining how we conceive the world?</description><content:encoded>###### To read and watch  👀
+
+# [How I use Figma to craft better presentations](https://itspatmorgan.substack.com/p/how-i-use-figma-to-craft-better-presentations?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+
+I stopped using Google Slides, PowerPoint, and Keynote (which is my favorite) a long time ago to use Figma for presentations. Storytelling is a skill you must have to communicate your ideas effectively as a designer. This article gives you a guide to keep everything in order and take advantage of Figma's prototyping option in your presentations.
+
+[![](https://substackcdn.com/image/fetch/$s_!TrAi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F05a9e620-909c-4223-b606-1bdde4432065_1012x506.webp)](https://substackcdn.com/image/fetch/$s_!TrAi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F05a9e620-909c-4223-b606-1bdde4432065_1012x506.webp)
+
+---
+
+# Graphic Means
+
+Do yourselves a favor and watch this documentary — for those who like to understand where we come from, at least for those of us who make visual things in this industry.</content:encoded></item><item><title>Apple's Dynamic Island on iPhone 14</title><link>https://iterativethinking.substack.com/p/apple's-dynamic-island-on-iphone-14</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/apple's-dynamic-island-on-iphone-14</guid><pubDate>Thu, 15 Sep 2022 12:00:35 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>A patch for a feature with lots of potential</description><content:encoded>###### To read and watch David Hoang 👀
+
+# [Understanding Iconic Design](https://www.proofofconcept.pub/p/understanding-iconic-design)
+
+Following this thread, this article by David Hoang talks a lot about what it takes to make recognizable products.
+
+[![](https://substackcdn.com/image/fetch/$s_!8prJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7f398fbe-6855-4482-8b56-8b27b34c2d2f_1920x534.jpeg)](https://substackcdn.com/image/fetch/$s_!8prJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7f398fbe-6855-4482-8b56-8b27b34c2d2f_1920x534.jpeg)
+
+---
+
+# The universal challenges of every scaling design team
+
+[![YouTube](https://img.youtube.com/vi/piGC-iFwmrk/hqdefault.jpg)](https://www.youtube.com/watch?v=piGC-iFwmrk)
+
+David at **Config2022** talks about the universal challenges of scaling teams. This video has helped me conceptualize ideas about working with growing teams, or as he calls it: **hyper-growth**.</content:encoded></item><item><title>Growth path: or how to never stop growing</title><link>https://iterativethinking.substack.com/p/growth-path:-or-how-to-never-stop-growing</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/growth-path:-or-how-to-never-stop-growing</guid><pubDate>Thu, 08 Sep 2022 19:33:33 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>If you know where you want to go, you don't stop.</description><content:encoded>###### Para ver 👀
+
+# You Need Tough Feedback—Here's How to Get It | Christine vs. Work
+
+[![YouTube](https://img.youtube.com/vi/SsaYA6biO6Q/hqdefault.jpg)](https://www.youtube.com/watch?v=SsaYA6biO6Q)
+
+**Christine Liu** gives us this guide on how to get quality feedback, how to react to feedback (good and bad) and how to grow from it.
+
+---
+
+# Somos Instantes…
+
+[![YouTube](https://img.youtube.com/vi/5GacInauhbc/hqdefault.jpg)](https://www.youtube.com/watch?v=5GacInauhbc)
+
+I can't get this song out of my head and I think it's relaxing, **I really want to go to Majahuita.**</content:encoded></item><item><title>Good design is about process, not the product</title><link>https://iterativethinking.substack.com/p/good-design-is-about-process,-not-the-product</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/good-design-is-about-process,-not-the-product</guid><pubDate>Fri, 19 Aug 2022 17:10:50 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>and why taking this literally will trap us in the process instead of delivering value to the people who use what we design.</description><content:encoded>[![](https://substackcdn.com/image/fetch/$s_!acl6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa966e8a0-4c07-4b48-b34b-a85f5d99159c_889x533.png)](https://substackcdn.com/image/fetch/$s_!acl6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa966e8a0-4c07-4b48-b34b-a85f5d99159c_889x533.png)
+
+I came across this quote on social media and it really got me thinking. Could it be that we misunderstood what Jared Sinclair meant about design? Because I see how many applaud this approach arguing that our role is intellectual and has nothing to do with execution, in fact, in many cases execution is the least of it, being something interchangeable and replaceable.
+
+Naturally, we see the intellectual process as a higher-level activity, or at least that's what we convince ourselves of. Perhaps in some cases this is justified as a way to earn a seat at the discussion table, where words like **strategy** have more echo. Inevitably, we think that design then is a process, what happens after leaves the table where decisions are made with directors and gets passed along, in the end the craftspeople, those who can execute the design, are just technical people executing what the strategic plan demands.
+
+What was Sinclair really trying to tell us when he wrote this? In 2014 Jared published an article on his blog with the same title, *good design is about process not the product*
+
+Sinclair talks about how what's important isn't the process, but focusing on having a good process while you design, something that is controllable and that you can't leave to the subjectivity of your natural talent or instinct. For Jared what matters is understanding how we can use the process to not seduce ourselves with the idea of quick solutions that come with first ideas, the process is the means by which you achieve *the designed thing*, if you're more conscious of that process you'll understand your mental process and what happens to understand the design decisions you make.
+
+But why should I forget about the product and think only about the process? Because this way you'll think less about the limitations that a first divergent look doesn't need, without biases, predispositions, even deadlines that will get resolved as we advance. Basically forget about the what (*the designed thing*) and focus on the how (*the process*).
+
+It could seem utopian, and perhaps sometimes it will be inevitable to think about deadlines, especially in environments where the philosophy of delivering value in short periods of time is predominant. Even with well-defined timelines, this is an open invitation that when you search for a solution, don't focus on the place you'll arrive at, but on the path and inevitably you'll arrive faster at your destination with this approach.
+
+This is very different from thinking that **design is only about the process**, as if that put us on a higher intellectual level than others, **design is not the process**, **it's what happens when you use that process**, allowing you constant iterations and with a certain why. If we use processes and methodologies to talk about design, that only makes us theorize about design, that's not bad, in fact it's necessary, but that's not doing design; and don't misunderstand me, I'm not saying we should open a computer and start using a design application, what I'm saying is that the process doesn't serve much if the end isn't delivering value to users, solving problems, improving people's lives, because that's what *the designed thing* is for and **when you create that impact you're doing design.**
+
+This applies to the designer working solo at a startup as much as the specialist at a large company that has embraced design as mindset. If you're a solo designer, maybe you need to understand the complete picture more, and no, it has never been about making this look beautiful, about having documentation or an immaculate process, like a list full of completed tasks, it's about understanding how what you do adds value to your business and to the user. If you're a specialist or you work on a phase of the process in a very clear way, don't see your role as the most important part of the chain, because that's the first mistake, instead try to understand how you connect with other links in the chain and don't think you're the only one doing design. **Design is what happens before and after you and ends when your clients/end users can do something more easily, or can do something to make their life easier.**
+
+So if you're one of those designers on the strategic side, or you do discovery, kickoffs, or needs understanding, don't see design execution as something lesser, processes and design frameworks are only something when something happens with them, **that's design**. If you're someone who enjoys executing more, and I'm not just talking about UI, just try to understand why and how the requirements you're asked for arrive, you're not an operator, you're a designer who deeply understands what they're being asked and why they're being asked. **Without strategy or process, your design is not design.**
+
+That's it for now, read [Jared's complete article](https://jaredsinclair.com/2014/09/16/good-design-is-about-process-not.html) and you'll see why he says what's important is the process
+
+---
+
+###### To Read 2x1 👀
+
+# [Design with materials, not features](https://thesephist.com/posts/materials/?ref=heydesigner&utm_source=pocket_mylist)
+
+When we design applications, it's very important to understand which paths the user travels to accomplish a task, [Linus](https://twitter.com/thesephist) makes us rethink this approach by thinking in materials and not in features, when we talk about applications with multiple paths, where it's not just about specific tasks, but where users have multiple options to reach the desired path.
+
+---
+
+# [Experience Design Team Mindset](https://medium.com/design-santander/experience-design-team-mindset-54bf02b86758)
+
+[Leonides Delgado](https://www.linkedin.com/in/leonides/) shares this series of articles about what he learned in the banking industry, designing experiences, connecting dots that for those of us who have worked in that industry make a lot of sense, but even better, it's applicable in your day to day work, regardless of what industry you belong to.</content:encoded></item><item><title>Decentralized Society (DeSoc) with Soulbound Tokens</title><link>https://iterativethinking.substack.com/p/decentralized-society-(desoc)-with-soulbound-tokens</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/decentralized-society-(desoc)-with-soulbound-tokens</guid><pubDate>Thu, 09 Jun 2022 12:00:26 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>###### To Read or Watch 👀...</description><content:encoded>###### To Read or Watch 👀
+
+# The UX Rebels season 3 on YouTube
+
+[![YouTube](https://img.youtube.com/vi/5889F-Tn_qQ/hqdefault.jpg)](https://www.youtube.com/watch?v=5889F-Tn_qQ)
+
+We migrated to YouTube—well, more like we added this distribution channel. You can keep listening on your preferred podcast app. We're starting the third season, and we talked with **Omar Mendoza** about how schools approach teaching Design, among other topics.
+
+---
+
+###### To Watch 👀
+
+# A Creator-Led Internet, Built on Blockchain | Adam Mosseri
+
+[![YouTube](https://img.youtube.com/vi/rWTwcySGvrE/hqdefault.jpg)](https://www.youtube.com/watch?v=rWTwcySGvrE)
+
+Instagram's CEO gives this interesting talk about the future of platforms, their disintermediation with Tokens and Creator Economy. An interesting narrative where platforms adapt to the paradigm shifts in Web3.</content:encoded></item><item><title>NFTs: Blockchain Applications in the Real World</title><link>https://iterativethinking.substack.com/p/nfts:-blockchain-applications-in-the-real-world</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/nfts:-blockchain-applications-in-the-real-world</guid><pubDate>Thu, 19 May 2022 16:04:13 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Third installment of Token Economy: let's talk about NFTs, what they are, and how what we're seeing now is just a small slice of their true potential.</description><content:encoded>###### To Read or Watch 👀
+
+# [Are NFTs the Future of Subscriptions?](https://creatoreconomy.so/p/are-nft-memberships-the-future-of-subscriptions?mkt_tok=MzgyLUpaQi03OTgAAAGEPjmMY-OKK6MKDa0zMtw0rOxCnBginjqIK74_4w_OUhC_ZHpkxxjmRK_40NbxJsZLb2TZg2p7eoN_f2vHvBHayptv8uf61p2iMsrFPD9VL1pD&s=r)
+
+[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/abf77eae-3538-4aa2-93ea-7692fc5e1147_1200x628.webp)](https://creatoreconomy.so/p/are-nft-memberships-the-future-of-subscriptions?mkt_tok=MzgyLUpaQi03OTgAAAGEPjmMY-OKK6MKDa0zMtw0rOxCnBginjqIK74_4w_OUhC_ZHpkxxjmRK_40NbxJsZLb2TZg2p7eoN_f2vHvBHayptv8uf61p2iMsrFPD9VL1pD&s=r)
+
+To stay on theme, this is an interesting article that analyzes alternative models for content creators and their audience, a membership or co-production with NFTs.
+
+---
+
+###### To Listen…🎧
+
+# Fax + Braulio Lam - Focus
+
+[![YouTube](https://img.youtube.com/vi/Eo6MHqmvfsU/hqdefault.jpg)](https://www.youtube.com/watch?v=Eo6MHqmvfsU)
+
+The first of three tracks that make up Mixed Signals by **[Fax](https://linktr.ee/faxmusik)** (Rubén Alfonso Tamayo) and **[Braulio Lam](https://soundcloud.com/brauliolam)**</content:encoded></item><item><title>Decentralization vs Centralization</title><link>https://iterativethinking.substack.com/p/decentralization-vs-centralization</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/decentralization-vs-centralization</guid><pubDate>Thu, 05 May 2022 12:00:35 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Second installment of token economy: Understanding decentralization with its different nuances</description><content:encoded>**[Telegram group about Web3, NFTs and Metaverse](https://t.me/+PSKoYXoW70I2OTEx)**
+
+---
+
+###### To Read or Watch 👀
+
+# [Diagram (formerly Tricycle) by Jordan Singer gets 3 million in capital](https://blog.diagram.com/p/diagrams-3m-seed?s=r)
+
+[![](https://substackcdn.com/image/fetch/$s_!ohpL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F00bb8318-6ec9-42c6-a1d4-599c6ba6276f_3840x2880.png)](https://substackcdn.com/image/fetch/$s_!ohpL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F00bb8318-6ec9-42c6-a1d4-599c6ba6276f_3840x2880.png)
+
+In [edition 3](https://ulisesarvizu.substack.com/p/cuando-los-disenadores-sean-robots?s=w) we linked the interesting project by [Jordan Singer](https://read.cv/jordansinger) **Tricycle** (now **[Diagram](https://diagram.com/)**). Now they've obtained 3 million dollars in capitalization. Plugins for Figma like **Automator** or [Prototyper](https://prototyper.design/) have made a lot of noise in the design community—**definitely one to keep an eye on.**
+
+---
+
+###### To Listen and Watch… 🎧
+
+# Max Cooper - Repetition (Official Video By Kevin McGloughlin)
+
+[![YouTube](https://img.youtube.com/vi/nO9aot9RgQc/hqdefault.jpg)](https://www.youtube.com/watch?v=nO9aot9RgQc)
+
+Just enjoy this track with the visuals….
+
+---</content:encoded></item><item><title>Crypto, Its Promises, and the Design Challenges</title><link>https://iterativethinking.substack.com/p/crypto,-its-promises,-and-the-design-challenges</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/crypto,-its-promises,-and-the-design-challenges</guid><pubDate>Wed, 20 Apr 2022 12:00:48 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>First of several installments on what I learned from Token Economy</description><content:encoded>###### To Read or Watch 👀
+
+# [How to design better experiences for Web3](https://uxdesign.cc/how-to-design-a-better-ux-for-web3-e270738930a1)
+
+[Derick David](https://medium.com/@drckangelo?source=collection_home---------1----------------------------) makes us reflect on how *Web3* and the noise around it doesn't foster its adoption. The products and services aren't modeled to be understood by everyday users.
+
+> The challenge here for designers is to hide as much complexity in Web3 products and focus on what really matters to the user, given that it's providing them value.
+
+---
+
+###### To Listen… 🎧
+
+# cells_  by DARK
+
+[![cells_ - DARK](https://i.scdn.co/image/ab67616d0000b273d404b06df04f7abf8c4a9fd9)](https://open.spotify.com/track/5wL47ObGrxG1tjiIRs4fal)
+
+I found Dark by chance on Instagram. *Roopam Garg* is an experimental ambient composer who since 2020 rebranded his identity as a musician with the name DARK.
+
+---
+
+### Before we wrap up... Telegram Group on Web3
+
+**[Daniel Gurrola](https://twitter.com/dagurrola)**, **[Yessica Avila](https://twitter.com/moebiusblue)** and I got tired of sharing articles separately about *Web3, Metaverse* and related topics, so we've started a Telegram group to discuss and share the things we find on the web here. [Link if you want to join.](https://t.me/+PSKoYXoW70I2OTEx)</content:encoded></item><item><title>Tools enable and constrain what we do with products</title><link>https://iterativethinking.substack.com/p/tools-enable-and-constrain-what-we-do-with-products</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/tools-enable-and-constrain-what-we-do-with-products</guid><pubDate>Thu, 24 Mar 2022 13:00:37 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>We use tools to create products or services, but these are also tools for those we call end users.</description><content:encoded>###### To Read or Watch 👀
+
+# [The 4 "Rs" that set apart great UX designers](https://medium.com/ux-planet/the-4-rs-that-set-apart-great-ux-designers-1731223d8de9)
+
+[Brittany Sumarsono](https://medium.com/@bnsumarsono) brings us this interesting article about *soft skills* you should develop to stand out in your career as a designer.
+
+[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/2de1b3f4-c2b5-4711-bfbe-da41c2637d76_1400x972.jpeg)](https://medium.com/ux-planet/the-4-rs-that-set-apart-great-ux-designers-1731223d8de9)
+
+---
+
+###### To Listen… and a bit more 🎧
+
+# Atmospheric Entry - Masayuki Azegami
+
+**[Masayuki Azenagi](https://azegami.net/)** is a multimedia designer and programmer who also makes music. I found him by chance on Instagram and after checking out his profile I discovered his production on *Spotify*: experimentation and *glitch* with a certain 4x4 touch.
+
+[![Firing - Masayuki Azegami](https://i.scdn.co/image/ab67616d0000b2732cacfc00950b8977921791d4)](https://open.spotify.com/album/4tZj9c1D15CWt7Oo3WyzSH)</content:encoded></item><item><title>For a designer, new things always excite me... Web3</title><link>https://iterativethinking.substack.com/p/for-a-designer,-new-things-always-excite-me...-web3</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/for-a-designer,-new-things-always-excite-me...-web3</guid><pubDate>Fri, 18 Mar 2022 04:31:00 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>A personal story from when I was 24 that finds a loop now that I'm almost 40</description><content:encoded>###### To Read or Watch 👀
+
+# [How to keep a Design System alive?](https://medium.com/@matthieulerat/how-to-keep-a-design-system-alive-1c6c239f1430)
+
+[Matthieu Lerat](https://medium.com/@matthieulerat/how-to-keep-a-design-system-alive-1c6c239f1430#:~:text=Matthieu%20Lerat,-Matthieu%20Lerat) brings us this concise article about what to do so your Design System initiative that was already born doesn't die.
+
+[![](https://substackcdn.com/image/fetch/$s_!m32-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F53e7189b-2a1c-4ca0-a766-e800e5e445a4_1400x745.png)](https://substackcdn.com/image/fetch/$s_!m32-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F53e7189b-2a1c-4ca0-a766-e800e5e445a4_1400x745.png)
+
+---
+
+###### To Listen... and a bit more 🎧
+
+# Clarion (Kiasmos Remix)
+
+[Ben Lukas Boysen](https://benlukasboysen.com/) is a music producer, sound designer, and multimedia artist from Berlin. His discography is flawless, with touches of *Minimal techno*, experimentation, jazz, and piano. Surprisingly I found this *track* which is a *remix* by [Kiasmos](https://www.kiasmos.is/), (Ólafur Arnalds and Janus Rasmussen) emotional, to start the day.
+
+[![Clarion - Kiasmos Remix - Ben Lukas Boysen, Kiasmos](https://i.scdn.co/image/ab67616d0000b27342f0dc3759a3b3e855245d10)](https://open.spotify.com/album/57HX6lB11c4KENls8XUfAD)
+
+---
+
+### Before wrapping up…
+
+I have exciting news to share: you can now read **Iterative thinking** in the new Substack app for iPhone.
+
+Read Iterative Thinking  in the Substack app
+
+Available for iOS and Android
+
+Get the app
+
+With the app, you'll have a dedicated Inbox to read this newsletter and any other you subscribe to that's based on Substack.
+
+> New posts will never get lost in email filters or stuck in spam. Longer posts will never be cut off by your email app. Comments and rich media will work perfectly. Overall, it's a major improvement in the reading experience.
+
+The **Substack** app is currently available for iOS. If you don't have an Apple device, you can join the Android waitlist [here](https://substack.com/app/android-waitlist?utm_campaign=app-marketing&utm_context=author-post-insert&utm_content=ulisesarvizu).</content:encoded></item><item><title>People-Centered Organizations</title><link>https://iterativethinking.substack.com/p/people-centered-organizations</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/people-centered-organizations</guid><pubDate>Fri, 11 Mar 2022 20:59:12 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Talent magnets, win-win relationships</description><content:encoded>###### To Read or Watch 👀
+
+# Best Practices for Product Roadmap —Jeff Lash
+
+Finding best practices for *Product Roadmaps* is a challenge for teams. Thinking from the perspective of sales, marketing, or engineering, priorities always vary between teams. But this isn't negative. What [Jeff Lash](https://www.linkedin.com/in/jefflash/) explains is that we need to adapt to each team's needs to achieve the goal in the best way. **Documenting and communicating ***Roadmaps* is what Jeff defines as the main problem to solve.
+
+[![YouTube](https://img.youtube.com/vi/J5N56ALJiGQ/hqdefault.jpg)](https://www.youtube.com/watch?v=J5N56ALJiGQ)
+
+---
+
+###### To Listen… and a bit more 🎧
+
+# You Can Always Start Over -Ophelia Pastrana
+
+In this episode [Diego Barrazas](https://podcast.dementes.mx/about/) brings us this interesting interview that hooked me. The concept of trans-disciplinary that she explains helps us understand how you can always learn new things and everything that happens to you in life can connect with what you're doing now and give you a unique perspective.
+
+[![YouTube](https://img.youtube.com/vi/t8F8WZ7bh4M/hqdefault.jpg)](https://www.youtube.com/watch?v=t8F8WZ7bh4M)</content:encoded></item><item><title>Learning from NFTs: The Culture of Future Promises</title><link>https://iterativethinking.substack.com/p/learning-from-nfts:-the-culture-of-future-promises</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/learning-from-nfts:-the-culture-of-future-promises</guid><pubDate>Wed, 02 Mar 2022 13:00:41 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>What I've learned in recent weeks and need to share with you</description><content:encoded>###### To Read or Watch 👀
+
+# [Finity: The Design System for Web3](https://blog.polygon.technology/polygon-launches-finity-to-solve-web3s-ui-ux-woes/)
+
+[Polygon](https://polygon.technology/) is a *SideChain* platform based on Ethereum ([here's the explanation](https://www.youtube.com/watch?v=GWUwFDFOipo)). Its goal is to be a platform for developing DApps solutions (decentralized apps), so they present, in collaboration with [Cope.Studios](https://cope.studio/), **[Finity](https://finity.polygon.technology/)**
+
+[![](https://substackcdn.com/image/fetch/$s_!mrXm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F07a6bbc9-91f9-463f-9e77-0eb9030506df_3840x2160.png)](https://substackcdn.com/image/fetch/$s_!mrXm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F07a6bbc9-91f9-463f-9e77-0eb9030506df_3840x2160.png)
+
+---
+
+###### To Listen to… and a bit more 🎧
+
+# NFTs Explained
+
+Just in case you want to know more about the topic, this episode of **¡Ya es Lunes!** is a must
+
+[![NFTs explicados - By Neubox](https://i.scdn.co/image/ab6765630000ba8ab59bf4b977e71e2f7eee1db2)](https://open.spotify.com/episode/6rQl48cv52fRWybsENGMPb)</content:encoded></item><item><title>UI is not UX</title><link>https://iterativethinking.substack.com/p/ui-is-not-ux</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/ui-is-not-ux</guid><pubDate>Wed, 02 Feb 2022 22:43:15 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>My problem with this kind of argument used to put oneself above others</description><content:encoded>###### Para Leer 👀
+
+# [Turn method into magic—the alchemy of prototyping](https://davidhoang.substack.com/p/turn-method-into-magicthe-alchemy?)
+
+[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f9ddf2be-b835-4da9-938a-cbb17e8c41fc_1456x819.jpeg)](https://davidhoang.substack.com/p/turn-method-into-magicthe-alchemy?)
+
+**David Hoang** has his blog *Proof of Concept*, where he has this great article about prototyping. What's it for and how should we use it in the design process? It seems obvious at first glance, but we shouldn't forget that we must clarify expectations. A prototype isn't just the pleasurable act of animating a sequence of static screens without code.
+
+---
+
+Para Escuchar o escuchar 🎧
+
+# Eight Seasons: Astor Piazzolla - Four Seasons of Buenos Aires; Vivaldi - Four Seasons
+
+[![Allegro - Giant e la Primavera...* - Antonio Vivaldi, Gidon Kremer, Kremerata Baltica](https://i.scdn.co/image/ab67616d0000b27386934507014bfcee013a2c71)](https://open.spotify.com/album/3F9HkwGiVZN0OW2K9Sf6Nh)
+
+I found this album through this [tiktok](https://www.tiktok.com/@m.zogbi/video/7057751355166936325) from **[Manuel Zogbi](https://www.tiktok.com/@m.zogbi)**, who will give you more reasons than I can for why you should listen to this (ideal for working).</content:encoded></item><item><title>Design as a craft</title><link>https://iterativethinking.substack.com/p/design-as-a-craft</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/design-as-a-craft</guid><pubDate>Thu, 27 Jan 2022 04:41:21 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>We can read a thousand books, but design is learned by doing.</description><content:encoded>###### To Read 👀
+
+# [Base Components](https://joeyabanks.substack.com/p/baseline-3-base-components)
+
+[![](https://substackcdn.com/image/fetch/$s_!7_ao!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5372a11-f798-4cfb-b9c2-bd8eff4caa0d_1600x900.png)](https://substackcdn.com/image/fetch/$s_!7_ao!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5372a11-f798-4cfb-b9c2-bd8eff4caa0d_1600x900.png)
+
+**[Joey Banks](https://twitter.com/joeyabanks)** is starting a very interesting *newsletter* about Design, UI and *Design Systems* and *Figma*. His third edition talks about how to create base components, centralizing elements can bring you benefits for making changes in the future, *for Figma nerds*
+
+---
+
+###### To Listen or Watch 🎧
+
+# Jobii
+
+[![YouTube](https://img.youtube.com/vi/8-3JB6mrUgI/hqdefault.jpg)](https://www.youtube.com/watch?v=8-3JB6mrUgI)
+
+I'm a fan of **Jobii's** music, here's a bit about his creative process and what it means for him to make music for a service like *Epidemic Sound*</content:encoded></item><item><title>Time, a Key Constraint in Design</title><link>https://iterativethinking.substack.com/p/time,-a-key-constraint-in-design</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/time,-a-key-constraint-in-design</guid><pubDate>Fri, 14 Jan 2022 02:28:40 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>###### To Read 👀...</description><content:encoded>###### To Read 👀
+
+# Design Critique Culture
+
+*Feedback* is one of the most important parts in the design process. In this article, [Boris Müller](https://borism.medium.com/?source=post_page-----b7350baab11c-----------------------------------) gives us a guide so that *Design Critique* becomes the trigger for a project's success.
+
+---
+
+###### To Listen 🎧
+
+# My Appearance on a UXBS Podcast!
+
+[![Cómo alinear tus intereses profesionales con la empresa - By Cristobal Lemoine](https://i.scdn.co/image/ab6765630000ba8ad2b5a891aa5a2013b649138c)](https://open.spotify.com/episode/4IU0PTOhidrOwvnhAwZiA1)
+
+[Cristobal Lemoine](https://www.instagram.com/cristobal_lemoine/?hl=es) interviewed me a few weeks ago on a UXBS podcast. I talked a bit about my experience building trust in design teams and how you can naturally align your collaborators' interests with those of the company, a win-win relationship. Hope you like it.</content:encoded></item><item><title>The Service of Cancellation</title><link>https://iterativethinking.substack.com/p/the-service-of-cancellation</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/the-service-of-cancellation</guid><pubDate>Wed, 05 Jan 2022 20:34:47 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Two radically different experiences for a similar process.</description><content:encoded>###### To Read 👀
+
+# [Bias by design](https://biasedbydesign.com/)
+
+[![](https://substackcdn.com/image/fetch/$s_!Hkc-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6c79a356-6e01-4386-81ce-686c0f7128cd_4472x2608.png)](https://substackcdn.com/image/fetch/$s_!Hkc-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6c79a356-6e01-4386-81ce-686c0f7128cd_4472x2608.png)
+
+**[Jon Yablonski](https://jonyablonski.com/)** is a Senior UX Designer and author of this great site:
+
+*This website is a resource for breaking down the most common cognitive biases that designers must face during the design process. It's by no means an exhaustive list, but a deep dive into the most common ones during the design process. These are also the ones that can influence design decisions and the products and services we help build.*
+
+---
+
+###### To Listen, well and watch… 🎧
+
+# MURCOF @ Paquimé, Chihuahua
+
+[![YouTube](https://img.youtube.com/vi/6dB20mk3c10/hqdefault.jpg)](https://www.youtube.com/watch?v=6dB20mk3c10)
+
+[Murcof](https://murcofmusic.bandcamp.com/) (Fernando Corona Murillo) is a Mexican electronic music producer based in Europe. I've been following his work since he made music for the *Colectivo Nortec* as *Terrestre*. *Murcof* blends evocations of *minimal techno*, sonic experimentation, and classical music. This concert was in 2019—while you can leave it on in the background, the visuals definitely illustrate what you're hearing very well.</content:encoded></item><item><title>Before 2021 Goes</title><link>https://iterativethinking.substack.com/p/before-2021-goes</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/before-2021-goes</guid><pubDate>Thu, 30 Dec 2021 03:05:47 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>The last newsletter of this year</description><content:encoded /></item><item><title>Designing 10 Thousand Years Into the Future</title><link>https://iterativethinking.substack.com/p/designing-10-thousand-years-into-the-future</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/designing-10-thousand-years-into-the-future</guid><pubDate>Wed, 22 Dec 2021 20:03:53 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>What never changes in design across time?</description><content:encoded>###### To Read 👀
+
+# [The ROI of Design Doesn't Exist](https://solmesz.medium.com/el-roi-del-diseno-no-existe-fc47a9fe1e73)
+
+[Sol Mesz](http://www.solmesz.com/es/home-2020-es) brings us this interesting article, where she talks about how it's impossible to have a **universal metric for Design ROI**—this is a must-read article for those who want to justify decisions with business.
+
+We had Sol in an interesting [interview on ](http://theuxrebels.com/episodios/sin-roi-no-hay-diseno/)**[The UX Rebels](http://theuxrebels.com/episodios/sin-roi-no-hay-diseno/)**, where she told us about *The Full Loop Analytics Framework*.
+
+---
+
+###### To Listen, well and watch… 🎧
+
+## Paolo Miscia: How Close Is the Metaverse Promised by Facebook for Society and Media?
+
+[![YouTube](https://img.youtube.com/vi/osrFs_Cz7ik/hqdefault.jpg)](https://www.youtube.com/watch?v=osrFs_Cz7ik)
+
+Mauricio Cabrera (creator of Story Baker) in his [podcast ](https://shows.acast.com/the-coffee)**[The Coffee](https://shows.acast.com/the-coffee)** interviews **Paolo Miscia**, former Digital Research director at Discovery Latin America and creator of **[Al Metaverso](https://mobile.twitter.com/almetaverso)**, talking about the Metaverse and its implications. [Here's the episode on Spotify](https://open.spotify.com/episode/5pWFsTJi5ZzPCyOATmCeEs?si=SzWdc0jLT5qwV0I5-VWDvw) if you want audio only.</content:encoded></item><item><title>On design, tasks and outcomes</title><link>https://iterativethinking.substack.com/p/on-design,-tasks-and-outcomes</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/on-design,-tasks-and-outcomes</guid><pubDate>Wed, 15 Dec 2021 22:29:53 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>The difference between what you design and your deliverables.</description><content:encoded>###### To Read or Watch 👀
+
+# [Managers make organizations, not products](https://tannerchristensen.com/blog/2021/12/8/managers-make-organizations-not-products?utm_source=pocket_mylist)
+
+I shared a few weeks ago on LinkedIn this brilliant post by [Tanner Christensen](https://tannerchristensen.com/) that talks about the difference in impact between a *Manager* and an *Individual contributor* with influence. The first impacts the team and the second impacts the product.
+
+[![](https://substackcdn.com/image/fetch/$s_!lrv2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8864b628-e746-4030-8eec-6773b923ebb5_1609x654.jpeg)](https://substackcdn.com/image/fetch/$s_!lrv2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8864b628-e746-4030-8eec-6773b923ebb5_1609x654.jpeg)
+
+---
+
+###### To Listen... and a bit more 🎧
+
+# Max Cooper - Live at the Acropolis
+
+unmissable concert, even to leave playing in the background while you work
+
+[![YouTube](https://img.youtube.com/vi/aQq7Ln0b_rI/hqdefault.jpg)](https://www.youtube.com/watch?v=aQq7Ln0b_rI)</content:encoded></item><item><title>What to Do When You Have a 1:1?</title><link>https://iterativethinking.substack.com/p/what-to-do-when-you-have-a-1:1?</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/what-to-do-when-you-have-a-1:1?</guid><pubDate>Wed, 08 Dec 2021 16:42:43 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>I'm not talking about when you organize them; I'm talking about when you're part of one.</description><content:encoded>###### To Read or Watch 👀
+
+## [Defining objectives you can actually achieve: What is an OKR?](https://www.youtube.com/watch?v=1B2bJyNmtIE&list=PLO1929mU8ygQiz5aecZBiwqjaqQVKLRuu&index=1)
+
+> Humans are good at many things, but something we're really not good at is making plans. Every time we set an objective it's like a sentence for us not to achieve it, but it doesn't need to be that way. Understanding a bit about how our brain works and the tools we have to face it can help you establish plans that can actually be achieved. That's what we'll talk about in this program.
+
+[![YouTube](https://img.youtube.com/vi/1B2bJyNmtIE/hqdefault.jpg)](https://www.youtube.com/watch?v=1B2bJyNmtIE)
+
+---
+
+###### To Listen... and a bit more 🎧
+
+## [How to do behavioral design](https://www.dementes.mx/como-hacer-behavioral-design/)
+
+This episode came out a while ago, I actually listened to it on *Spotify*, but it's a *basic* to approach *behavioral economics*, explained simply and in Spanish, this is simply unmissable.
+
+[![YouTube](https://img.youtube.com/vi/dSCRaiLPcBI/hqdefault.jpg)](https://www.youtube.com/watch?v=dSCRaiLPcBI)</content:encoded></item><item><title>Things I've learned leading a design team.</title><link>https://iterativethinking.substack.com/p/things-i've-learned-leading-a-design-team.</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/things-i've-learned-leading-a-design-team.</guid><pubDate>Wed, 01 Dec 2021 13:00:46 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>After almost a year and a half of going from Senior designer to Lead, these are the things I've learned.</description><content:encoded>`**To Read or Watch 👀**
+
+# [Is design your love or addiction?](https://uxdesign.cc/is-design-your-love-or-addiction-e4e03e816569)
+
+An interesting reflection on the danger of obsessing over design processes and not over *outcomes*.
+
+---
+
+###### To Listen… 🎧
+
+# [The UX Rebels ep. 36 (24 temp 02): Liderazgo y Management](http://theuxrebels.com/episodios/liderazgo-y-management-ep-36-temp-2/)
+
+[![](https://substackcdn.com/image/fetch/$s_!vILA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F126f051a-51ab-40ec-8c26-532628a46fd1_1280x1280.jpeg)](https://substackcdn.com/image/fetch/$s_!vILA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F126f051a-51ab-40ec-8c26-532628a46fd1_1280x1280.jpeg)
+
+In this chat I had with [Benjamin Garcia](https://biolinky.co/bgarciaux), **Viviana** tells us about her definition of leadership and how she has developed it. You'll see we have points in common—it pairs well with what I wrote in this edition.</content:encoded></item><item><title>Metaverse and NFTs, things that make me realize I'm getting old.</title><link>https://iterativethinking.substack.com/p/metaverse-and-nfts,-things-that-make-me-realize-i'm-getting-old.</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/metaverse-and-nfts,-things-that-make-me-realize-i'm-getting-old.</guid><pubDate>Wed, 24 Nov 2021 13:00:37 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Old... but I like talking about what's Hype</description><content:encoded>###### To Read or Watch 👀
+
+# [Why I Don't Get Distracted - 4 Principles To Control Your Attention and Your Life](https://www.youtube.com/watch?v=DXTk1gAvpQk)
+
+Connected to the previous edition, if you're new and want to know what it was about [you can read it here](https://ulisesarvizu.substack.com/p/productividad-en-tiempos-remotos). This video gives us the basics for not getting distracted, very general rules and for the more expert a good reminder to stay focused and guilt-free.
+
+[![YouTube](https://img.youtube.com/vi/DXTk1gAvpQk/hqdefault.jpg)](https://www.youtube.com/watch?v=DXTk1gAvpQk)
+
+---
+
+###### To Listen... and a bit more 🎧
+
+# [# Rone - Bye Bye Macadam](https://www.youtube.com/watch?v=kfoJUeyMsOE)
+
+This time I share the official video which is amazing, black and white *motion graphics* that fill this playful *track* with mysticism. I use this one to get my second wind, hope you like it.
+
+[![YouTube](https://img.youtube.com/vi/kfoJUeyMsOE/hqdefault.jpg)](https://www.youtube.com/watch?v=kfoJUeyMsOE)
+
+---
+
+**Note: the previous edition came out with more writing errors than usual, apologies, we now run the grammar checker three times**</content:encoded></item><item><title>Productivity in Remote Times</title><link>https://iterativethinking.substack.com/p/productivity-in-remote-times</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/productivity-in-remote-times</guid><pubDate>Wed, 17 Nov 2021 13:00:44 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>or how to live without guilt when you procrastinate.</description><content:encoded>###### To Read or Watch 👀
+
+# [Championing Low-Ego Leadership at Figma](https://www.youtube.com/watch?v=5p3sqNINg2Y&t=802s)
+
+An interesting interview with [Dylan Field](https://www.slush.org/person/dylan-field/) (CEO and *co-founder* of **Figma**) about leadership, fun fact, Dylan took on the CEO role when he was just 20 years old, Figma doubled its *market share* in the last year.
+
+[![YouTube](https://img.youtube.com/vi/5p3sqNINg2Y/hqdefault.jpg)](https://www.youtube.com/watch?v=5p3sqNINg2Y)
+
+---
+
+###### To Listen… and a bit more 🎧
+
+# [Mister Lies - False Astronomy](https://www.youtube.com/watch?v=xc1u9X4HFAE)
+
+A track I use to clear my mind. Nothing more to say. Oh!, it's not on Spotify that's why I'm sharing the YouTube video
+
+[![YouTube](https://img.youtube.com/vi/xc1u9X4HFAE/hqdefault.jpg)](https://www.youtube.com/watch?v=xc1u9X4HFAE)
+
+---</content:encoded></item><item><title>Uncertainty and trust in the design process</title><link>https://iterativethinking.substack.com/p/uncertainty-and-trust-in-the-design-process</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/uncertainty-and-trust-in-the-design-process</guid><pubDate>Wed, 10 Nov 2021 13:00:42 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>How to deal with uncertainty and how the lack of it can be a sign of bias.</description><content:encoded>###### To Read or Watch 👀
+
+# You Need Tough Feedback—Here's How to Get It | Christine vs. Work
+
+It seems like something cliché, but asking for feedback assertively has its trick. This video is one of those gems you should share, and I think in many cases it will work because the coming months will be a time for retrospective.
+
+[![YouTube](https://img.youtube.com/vi/SsaYA6biO6Q/hqdefault.jpg)](https://www.youtube.com/watch?v=SsaYA6biO6Q)
+
+---
+
+###### To Listen 🎧
+
+## Origamibiro - Morel
+
+The project of [Thomas William Hill](https://www.tomwillhill.com/about). I discovered Origamibiro through the track [Tinder](https://www.youtube.com/watch?v=WjySvgxRvwU) about 3 years ago. Honestly, I was fascinated. **Morel is his latest release**: samples of string instruments, very dreamlike. I'm leaving the track on Spotify but also his [Bandcamp](https://origamibiro.bandcamp.com/).
+
+[![Morel - Origamibiro, VDU](https://i.scdn.co/image/ab67616d0000b27323360de9ed2203fc6f0f841e)](https://open.spotify.com/track/4KgzrgyrWIamWRL7ekSdnK)</content:encoded></item><item><title>When Designers Become Robots</title><link>https://iterativethinking.substack.com/p/when-designers-become-robots</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/when-designers-become-robots</guid><pubDate>Wed, 03 Nov 2021 13:01:14 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Automation is knocking at your door. Are you ready to answer?</description><content:encoded>###### To Watch
+
+## [#MiEmpleoMiFuturo: a documentary about robots, economy, middle class... and the end of the world](https://www.youtube.com/hashtag/miempleomifuturo)
+
+A two-part documentary where they talk about the future, technological advances, and how this can impact how the world develops for the following generations.
+
+[![YouTube](https://img.youtube.com/vi/htAnVeMtrr8/hqdefault.jpg)](https://www.youtube.com/watch?v=htAnVeMtrr8)
+
+---
+
+###### To Listen
+
+## Elastic Heart - Live from The Village
+
+There's not much to say about Sia. *Elastic Heart* has a very interesting production, here's [the original song](https://open.spotify.com/track/6kwAbEjseqBob48jCus7Sz?si=1a1322751a9a47ea), but I think this live version does justice to Sia's vocal power.
+
+[![Elastic Heart - Live from The Village - Sia](https://i.scdn.co/image/ab67616d0000b273858d8767593fd2db82a0def8)](https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i)</content:encoded></item><item><title>Communicate and Share</title><link>https://iterativethinking.substack.com/p/communicate-and-share</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/communicate-and-share</guid><pubDate>Wed, 27 Oct 2021 12:00:47 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>Clarity to communicate and share at all levels.</description><content:encoded>###### To read or watch 👀
+
+## [Work and Meta-work](https://jarango.com/2021/10/15/work-and-meta-work/)
+
+I discovered [Jorge Arango's Blog](https://jarango.com/blog/) by accident (like most things I find on the internet) author of the famous book [Information Architecture: For the Web and Beyond](https://www.amazon.com.mx/Information-Architecture-Beyond-Louis-Rosenfeld/dp/1491911689/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=information+architecture&qid=1635297016&sr=8-1) (the O'Reilly polar bear one). I really liked this post; above all, because it talks about a book that personally changed my way of seeing the organization of my productivity: **[Get Things Done](https://www.amazon.com.mx/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563/ref=sr_1_1?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Get+Things+Done&qid=1635295741&sr=8-1)**. The idea of Meta-Work. That which you do to be able to do your work, and it's as important as the work itself.
+
+---
+
+###### To listen 🎧
+
+## [Form By Firelight- Jon Hopkins](https://open.spotify.com/track/6nCbs3I4XACU0Rktl5NwC5?si=b526277dc4b347c5)
+
+From 2013. Jon Hopkins with this track makes me feel déjà vu and nostalgia. Glitches to the rhythm of techno that wants to be minimal, piano keys seeking balance between 4x4 and the organic. I hope you enjoy it.
+
+[![Form By Firelight - Jon Hopkins](https://i.scdn.co/image/ab67616d0000b273235e762de339c6076aa824dd)](https://open.spotify.com/track/6nCbs3I4XACU0Rktl5NwC5)</content:encoded></item><item><title>Are you a designer... only when you design?</title><link>https://iterativethinking.substack.com/p/are-you-a-designer...-only-when-you-design?</link><guid isPermaLink="true">https://iterativethinking.substack.com/p/are-you-a-designer...-only-when-you-design?</guid><pubDate>Wed, 20 Oct 2021 12:00:30 +0000</pubDate><author>ulises@iterativethinking.com (Ulises Arvizu)</author><description>What makes us define ourselves as designers</description><content:encoded>###### To Read or Watch 👀
+
+## [Spatial Design](https://developer.apple.com/videos/play/wwdc2021/10245/)
+
+This video explains the functionalities that iOS provides as a guide for creating Spatial Design experiences. It helps us understand what we need to consider to create a great experience by making the user see, hear and feel those interactions between physical products. A whole range of new possibilities opens up with this type of physical interactions including VR and AR.
+
+---
+
+###### To Listen 🎧
+
+## Simulation - Virtual Riot
+
+Contrary to the proposal you received in your welcome email, this time it's a very energizing album, Bass music (EDM) with chip-tune undertones, definitely not music to relax, but to move your feet and head. I recommend the track **It could be us**
+
+[![Login - Virtual Riot](https://i.scdn.co/image/ab67616d0000b27323540bbf160ffeff8a003fe8)](https://open.spotify.com/album/5iS3iVP4mj29YqqsdiAP3I)</content:encoded></item></channel></rss>
